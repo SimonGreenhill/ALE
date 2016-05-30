@@ -1,0 +1,87 @@
+title: Recoding of vowel in 'sun'
+author: Michael Cysouw
+date: '2016-05-30'
+original_data: 1_alignment_lump.tst
+recoding:
+# ==========
+- recodingOf: '1'
+  attribute: ~
+  values:
+  - '-'
+  - au
+  - a
+  - i
+  - o
+  - u
+  - ε
+  link:
+  - 1
+  - 2
+  - 2
+  - 3
+  - 2
+  - 2
+  - 2
+  - 2
+  - 4
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 5
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 6
+  - 4
+  - 7
+  - 7
+  - 7
+  - 7
+  - 5
+  originalValues:
+  - '-'
+  - ā:͟u
+  - aụ
+  - ɑ
+  - ɑu
+  - 'ɑ͟u:'
+  - ɑ͟u.
+  - ɑ͟u△
+  - i
+  - o
+  - ō
+  - o̬
+  - ō̭
+  - o͟a
+  - o͟ɑ
+  - œ͟u
+  - ōǝ
+  - ou
+  - ôˀ
+  - ɔ
+  - ɔ̭̄
+  - ɔu
+  - u
+  - ū̀
+  - u̬
+  - ū\
+  - ʌ
+  - ʌ͔
+  - 'y'
+  - ε
+  - εo
+  - ε͟u
+  - ε̄wǝ
+  - Ω
+  comments: ~

@@ -1,0 +1,1 @@
+Folder for automatic output, so nothing is overwritten by default
