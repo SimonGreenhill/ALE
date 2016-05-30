@@ -26,11 +26,11 @@ load("../../data/voronoi.Rdata")
 # ====================================
 
 # show cognate sets of 'split' version
-plot_cognates("../data/5_aligned_split.tsv")
+plot_cognates("../manual/5_aligned_split.tsv")
 
 # show corrected data of alignment
 # with speculative *MVNSVC reconstruction
-data <- "../data/5_aligned_lump.tsv"
+data <- "../manual/5_aligned_lump.tsv"
 plot_cognates(data)
 
 # ====================================
