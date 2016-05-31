@@ -4,7 +4,7 @@ plot_cognates <- function(file
 					, min.freq = 30
 					, voronoi = v
 					, locations = places
-					, font = "Linux Libertine G"
+					, font = "Linux Libertine O"
 					) {
 	
 	# read file and map to places
@@ -77,7 +77,7 @@ merge_columns <- function(col1, col2) {
 
 plot_column <- function(column
 						, voronoi = v
-						, font ="Linux Libertine G"
+						, font ="Linux Libertine O"
 						, size = .7
 						) {
 	
