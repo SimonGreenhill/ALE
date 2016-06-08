@@ -9,6 +9,8 @@ plot_cognates <- function(file
 	
 	# read file and map to places
 	data <- read.delim(file)
+	# remove multiple forms at random
+	data <- data[sample(1:nrow(data)),]
 	data <- data[!duplicated(data[,1]),]
 	rownames(data) <- data[,1]
 	data <- data[as.character(locations[,1]),]
@@ -16,19 +18,22 @@ plot_cognates <- function(file
 	# select only frequent cognate sets
 	cog <- data$COGID
 	freq <- as.numeric(names(table(cog)[table(cog) < min.freq]))
-	cog[cog %in% freq] <- 1000
+	cog[cog %in% freq] <- max(cog, na.rm=T) + 1
 	cog <- as.numeric(as.factor(cog))
 	
+	# plot map
 	cols <- c(sample(rainbow(max(cog, na.rm = T) - 1)), "grey")
 	vmap(v, col = cols[cog], border = NA)
 	
-	n <- data$Simplified
+	# make legend
+	n <- paste0(data$Simplified, " (", data$COGID, ")")
 	n [ duplicated(cog) | is.na (cog) | cog == max(cog) ] <- NA
-	nums <- cog[!is.na(n)]
+	nums <- unique(cog[!is.na(n)])
 	names <- na.omit(n)
 	names <- as.character(names[order(nums)])
 	names[max(nums)] <- "other"
 	
+	# plot legend
 	par(family = font)
 	legend("bottomright", legend = names, fill = cols, cex = .7)
 	par(family = "")
@@ -69,7 +74,7 @@ merge_columns <- function(col1, col2) {
 	
 	col1 <- as.character(col1)
 	col2 <- as.character(col2)
-	col1[which(col1=="-")] <- col2[which(col1=="-")]
+	col1[col1=="-"|is.na(col1)] <- col2[col1=="-"|is.na(col1)]
 	
 	return(as.factor(col1))
 
