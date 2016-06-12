@@ -57,7 +57,7 @@ write.profile(tok$strings$tokenized, sep = " ", file = "sandbox/ALEgraphemes_red
 # =======================
 # reduce and tokenize input, and simplify to simple IPA, make profile of grapheme clusters
 # add quick and dirty cognate clustering and alignment using lingPy
-tmp <- prepare(5, cutoff = 0.85)
+tmp <- prepare(346, cutoff = 0.85)
 
 # to see all intermediate steps, try this
 # tmp <- prepare(1, full =  TRUE, cutoff = 0.85)
