@@ -22,13 +22,31 @@ border <- maptools::readShapePoly("gis/boundary.shp"
 plot(border)
 
 # make voronoi map
-v <- voronoi(places[,6:5], spatstat::as.owin(border))
+v <- voronoi(places[,c("Longitude", "Latitude")], spatstat::as.owin(border))
 plot(v)
+# save(v, file = "data/voronoi.Rdata")
 
-# colour families
-cols <- sample(rainbow(nlevels(places$LanguageGroup)))
-vmap(v, col = cols[places$LanguageGroup], border = NA)
-legend("bottomright", legend = levels(places$LanguageGroup), fill = cols, cex = .5)
+
+# plotting families
+familymap <- function(factor) {
+	cols <- sample(rainbow(nlevels(factor)))
+	vmap(v, col = cols[factor], border = NA)
+	legend("bottomright", legend = levels(factor), fill = cols, cex = .5)
+}
+
+# plotting languages per family
+languagemap <- function(family) {
+	L <- places$Language
+	L[places$LanguageGroup != family] <- NA
+	L <- as.factor(as.character(L))
+	familymap(L)
+	title(family)
+}
+
+# maps
+familymap(places$LanguageGroup)
+
+invisible(sapply(levels(places$LanguageGroup), languagemap))
 
 ### TODO
 # add "asp" option in vmap

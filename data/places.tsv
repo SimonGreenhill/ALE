@@ -130,7 +130,7 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 06.0.010	ESR010	Romance	Spanish	Oreña	43.3961	-4.1339	Oreña	Orena	ORENA (SATANDER)	43.4000	-4.0833	http://www.geonames.org/3114968/orena.html
 06.0.011	ESR011	Romance	Spanish	Campo de Suso	43.0187	-3.9960	Campo de Suso	Campo_de_Sudo	CAMPO DE YUSO (SATANDER)	43.0333	-3.9167	http://www.geonames.org/3119835/la-costana.html
 06.0.012	ESR012	Romance	Spanish	Laredo	43.4098	-3.4161	Laredo	Laredo	LAREDO (SATANDER)	43.4000	-3.4000	http://www.geonames.org/3119145/laredo.html
-06.0.013	ESR013	Romance	Spanish	Villasana de Mena	43.1000	-3.2833	Villasana de Mena		VILLASANA DE MENA (BURGOS)	43.0833	-3.2667	http://www.geonames.org/3104847/villasana-de-mena.html
+06.0.013	ESR013	Romance	Spanish	Villasana de Mena	43.1000	-3.2833	Villasana de Mena	NA	VILLASANA DE MENA (BURGOS)	43.0833	-3.2667	http://www.geonames.org/3104847/villasana-de-mena.html
 06.0.017	ESR017	Romance	Spanish	Vera de Bidasoa	43.2809	-1.6830	Vera de Bidasoa	Vera_de_Bidasoa	VERA DE BIDASOA (NAVARRA)	43.2667	-1.6833	http://www.geonames.org/3106112/bera.html
 06.0.018	ESR018	Romance	Galician	Carnota	42.8220	-9.0880	Carnota	Carnota	CARNOTA (CORUNA)	42.8167	-9.0833	http://www.geonames.org/3126254/carnota.html
 06.0.019	ESR019	Romance	Galician	O Grove	42.4954	-8.8641	O Grove	O_Grobe	GROVE (PONTEVEDRA)	42.5000	-8.8667	http://www.geonames.org/3121078/o-grove.html
@@ -722,7 +722,7 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 08.0.256	FRR256	Romance	Gallo-Roman	Gréoux	43.7579	5.8858	Gréoux	Gréoux	GREOUX	43.8333	6.0000	http://www.geonames.org/6446619/greoux-les-bains.html
 08.0.257	FRR257	Romance	Gallo-Roman	Castellane	43.8462	6.5137	Castellane	Castellane	CASTELLANE	43.8333	6.6667	http://www.geonames.org/6446589/castellane.html
 08.0.258	FRR258	Romance	Gallo-Roman	Plan du Var	43.8582	7.1973	Plan du Var	Plan_du_Var	PLAN DU VAR	43.8333	7.1667	http://www.geonames.org/3002730/le-plan-du-var.html
-08.0.259	FRR259	Romance	Gallo-Roman	Menton	43.7745	7.4975	Menton		MENTON	43.8333	7.5000	http://www.geonames.org/6446719/menton.html
+08.0.259	FRR259	Romance	Gallo-Roman	Menton	43.7745	7.4975	Menton	NA	MENTON	43.8333	7.5000	http://www.geonames.org/6446719/menton.html
 08.0.260	FRR260	Romance	Gallo-Roman	Biarritz	43.4832	-1.5586	Biarritz	Biarritz	BIARRITZ	43.5000	-1.5000	http://www.geonames.org/6440301/biarritz.html
 08.0.261	FRR261	Romance	Gallo-Roman	Artix	43.3971	-0.5723	Artis	Artix	ARTIX	43.5000	-0.6667	http://www.geonames.org/2974814/serres-sainte-marie.html
 08.0.262	FRR262	Romance	Gallo-Roman	St. Martin	43.1602	0.0869	St. Martin	St._Martin	ST-MARTIN	43.5000	0.0000	http://www.geonames.org/6613446/saint-martin.html
@@ -1212,9 +1212,9 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 14.0.201	ITR201	Romance	Gallo-Italian	San Fratello	38.0128	14.5975	San Fratello	San_Fratello	no name given	38.0000	14.5833	http://www.geonames.org/2523487/san-fratello.html
 14.0.202	ITR202	Romance	Gallo-Italian	Sperlinga	37.7657	14.3514	Sperlinga	Sperlinga	no name given	37.7500	14.3333	http://www.geonames.org/6539191/sperlinga.html
 14.0.203	ITR203	Romance	Gallo-Italian	Aidone	37.4159	14.4455	Aidone	Aidone	no name given	37.4167	14.4167	http://www.geonames.org/6537793/aidone.html
-14.0.301	CHR301	Romance	Italian	Aurigeno	46.2324	8.7126	Aurigeno	Aurigeno	no name given	46.3333	8.6667	http://www.geonames.org/2661674/aurigeno.html
-14.0.302	CHR302	Romance	Italian	Olivone	46.5333	8.9500	Olivone	Olivone	no name given	46.5833	9.1667	http://www.geonames.org/2659300/olivone.html
-14.0.303	CHR303	Romance	Italian	Corticiasca	46.0867	9.0170	Corticiasca	Corticiasca	no name given	46.2500	9.1667	http://www.geonames.org/8533651/corticiasca.html
+14.0.301	CHR301	Romance	N. Italian	Aurigeno	46.2324	8.7126	Aurigeno	Aurigeno	no name given	46.3333	8.6667	http://www.geonames.org/2661674/aurigeno.html
+14.0.302	CHR302	Romance	N. Italian	Olivone	46.5333	8.9500	Olivone	Olivone	no name given	46.5833	9.1667	http://www.geonames.org/2659300/olivone.html
+14.0.303	CHR303	Romance	N. Italian	Corticiasca	46.0867	9.0170	Corticiasca	Corticiasca	no name given	46.2500	9.1667	http://www.geonames.org/8533651/corticiasca.html
 14.6.601	ITS601	Slavic	Slovene	Resia	46.3717	13.3093	Stolvizza	Resia	no name given	46.2500	13.3333	http://www.geonames.org/8963949/lischiazze.html
 14.7.701	ITAl701	Albanian	Albanian	Casalvecchio di Puglia	41.5960	15.1110	Casalvecchio di Puglia	Casalvecchio_di_Puglia	no name given	41.5833	15.2500	http://www.geonames.org/3180156/casalvecchio-di-puglia.html
 14.7.702	ITAl702	Albanian	Albanian	Falconara Albanese	39.2755	16.0933	Falconara Albanese	Falconara_Albanese	no name given	39.2500	16.0833	http://www.geonames.org/6541291/falconara-albanese.html
@@ -1995,9 +1995,9 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 25.2.206	CHR206	Romance	Franco-Provençal	La Chaux-de-Fonds	47.0979	6.8216	La Chaux-de-Fonds et env.	La_Chaux-de-Fonds	LA CHAUX-DE-FONDS	47.0833	7.0000	http://www.geonames.org/2660076/la-chaux-de-fonds.html
 25.2.207	CHR207	Romance	Oïl	Charmoille	47.4235	7.2074	Charmoille	Charmoille	CHARMOILLE	47.4167	7.3333	http://www.geonames.org/2661210/charmoille.html
 25.2.208	CHR208	Romance	Franco-Provençal	Genève	46.1984	6.1423	Genève	Genève	GENEVE	46.1667	6.1667	http://www.geonames.org/6691636/plainpalais.html
-25.4.401	CHR401	Romance	Rhaeto-Rom.	Surrein	46.7232	8.9491	Surrein	Surrein	SURREIN	46.7500	8.9167	http://www.geonames.org/6943335/surrein.html
-25.4.402	CHR402	Romance	Rhaeto-Rom.	Riom	46.6098	9.5817	Riom	Riom	RIOM	46.6667	9.5833	http://www.geonames.org/2659090/reams.html
-25.4.403	CHR403	Romance	Rhaeto-Rom.	Ramosch	46.8345	10.3824	Ramosch	Ramosch	RAMOSCH	46.8333	10.4167	http://www.geonames.org/2659072/remues.html
+25.4.401	CHR401	Romance	Rhaeto-Romanian	Surrein	46.7232	8.9491	Surrein	Surrein	SURREIN	46.7500	8.9167	http://www.geonames.org/6943335/surrein.html
+25.4.402	CHR402	Romance	Rhaeto-Romanian	Riom	46.6098	9.5817	Riom	Riom	RIOM	46.6667	9.5833	http://www.geonames.org/2659090/reams.html
+25.4.403	CHR403	Romance	Rhaeto-Romanian	Ramosch	46.8345	10.3824	Ramosch	Ramosch	RAMOSCH	46.8333	10.4167	http://www.geonames.org/2659072/remues.html
 26.0.001	CZS001	Slavic	Czech	Chrášt'any	50.4767	13.9276	Chrášt'any	Chrast'any	CHRASTANY (CAST OBCE DREMCICE)	50.5000	13.9167	http://www.geonames.org/3077585/chrastany.html
 26.0.002	CZS002	Slavic	Czech	Ponikla	50.6615	15.4633	Poniklá	Ponikla	PONIKLA	50.6667	15.2500	http://www.geonames.org/3067834/ponikla.html
 26.0.003	CZS003	Slavic	Czech	Postřekov	49.4583	12.8068	Postřekov	Postrekov	POSTREKOV	49.5833	12.9167	http://www.geonames.org/3067766/postrekov.html
@@ -2264,7 +2264,7 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 28.3.357	RUF357	Finnic	Veps	Voylokhta	60.2579	36.4109	Voylokhta	Vojlahta	VOJLAXTA	60.4167	36.0833	http://www.geonames.org/8245228/voylokhta.html
 28.3.358	RUF358	Finnic	Veps	Sidorovo	59.9103	35.0878	Sidorovo	Sidorovo	SIDOROVO	59.8333	35.0833	http://www.geonames.org/493074/sidorovo.html
 28.3.359	RUF359	Finnic	Finnish	Vuole	60.3398	30.5276	Vuole	Vuole	VUOLE	60.3333	30.6667	http://www.geonames.org/470887/vuoly.html
-28.3.360	RUF360	Finnic	Finnish	Koltushi	59.9341	30.6599	Koltuši	Koltusi				http://www.geonames.org/546055/koltushi.html
+28.3.360	RUF360	Finnic	Finnish	Koltushi	59.9341	30.6599	Koltuši	Koltusi	NA	NA	NA	http://www.geonames.org/546055/koltushi.html
 28.3.361	RUF361	Finnic	Finnish	Bol’shoye Konovalovo	59.8826	29.6714	Bol'šoe Konovalovo	Bol'soe_Konovalovo	BOL'SOE KONOVALOVO	59.8333	29.5000	http://www.geonames.org/573574/bol-shoye-konovalovo.html
 28.3.362	RUF362	Finnic	Finnish	Slavjanka	59.7376	30.4653	Slavjanka	Slavjanka	SLAVIANKA	59.6667	30.3333	http://www.geonames.org/524924/moskovskaya-slavyanka.html
 28.3.363	RUF363	Finnic	Finnish	Nazija	59.8429	31.5864	Nazija	Nazija	NAZIJA	59.8333	31.9167	http://www.geonames.org/523068/naziya.html
@@ -2450,9 +2450,9 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 28.5.595	RUP595	Permic	Udmurt	Juva	56.4368	57.9478	Juva	Juva	JUVA	56.4167	58.0000	http://www.geonames.org/466099/yuva.html
 28.5.596	RUP596	Permic	Udmurt	Tashkichi	55.6038	54.4716	Taškiči	Taskici	TASKICI	55.5833	54.5000	http://www.geonames.org/484103/tashkichi.html
 28.5.597	RUP597	Permic	Udmurt	Pokrovskij	54.2558	53.3435	Pokrovskij Urustamak	Pokrovskij	POKROVSKIJ URUSTAMAK	54.2500	53.3333	http://www.geonames.org/8356027/pokrovskiy.html
-28.5.690	RUY690	Samoyedic	Romanian	Nes'	66.6009	44.6788	Nes'	Nes'	NES	66.5833	44.6667	http://www.geonames.org/522534/nes.html
-28.5.691	RUY691	Samoyedic	Romanian	Nel'min Nos	67.9815	52.9556	Nel'min Nos	Nel'min_Nos	NELMIN NOS	68.0833	53.0833	http://www.geonames.org/522766/nel-min-nos.html
-28.5.692	RUY692	Samoyedic	Romanian	Krasnoe	67.8342	53.6019	Krasnoe	Krasnoe	KRASNOE	68.0000	54.0000	http://www.geonames.org/542045/krasnoye.html
+28.5.690	RUY690	Samoyedic	Nenets	Nes'	66.6009	44.6788	Nes'	Nes'	NES	66.5833	44.6667	http://www.geonames.org/522534/nes.html
+28.5.691	RUY691	Samoyedic	Nenets	Nel'min Nos	67.9815	52.9556	Nel'min Nos	Nel'min_Nos	NELMIN NOS	68.0833	53.0833	http://www.geonames.org/522766/nel-min-nos.html
+28.5.692	RUY692	Samoyedic	Nenets	Krasnoe	67.8342	53.6019	Krasnoe	Krasnoe	KRASNOE	68.0000	54.0000	http://www.geonames.org/542045/krasnoye.html
 28.6.601	UAR601	Romance	Romanian	Dibrova	48.0018	23.8371	Dibrova	Dibrova	DIBROWA TJACEWSKOGO R ZAKARPATSKOJ OBL.	48.0833	23.6667	http://www.geonames.org/709505/nyzhnya-apsha.html
 28.6.602	UAR602	Romance	Romanian	Krasnoil'skoe	48.0199	25.6013	Krasnoil'skoe	Krasnoil'skoe	KRASNOIL'SKOE STOROZINETSKOGO R CERNOWITSKOJ OBL	48.1667	25.5833	http://www.geonames.org/704379/krasnoyil-s-k.html
 28.6.603	UAR603	Romance	Romanian	Colencauti	48.4131	26.1294	Colencauti	Colencauti	KOLENKAUTSY HOTINSKOGO R CERNOWITSKOJ OBL.	48.4167	26.0833	http://www.geonames.org/705459/kolenkovtsy.html
@@ -2512,7 +2512,7 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 28.8.836	RUN836	Nakho-Dagestanian	Lezgian	Akhty	41.4629	47.7426	Ahty	Ahty	AXTY (LEZGINE)	41.3333	47.7500	http://www.geonames.org/583794/akhty.html
 28.8.837	RUAb837	Abkhazo-Adyge	Abaza	Starokuvinskij	44.3470	41.7780	Starokuvinskij	Starokuvinskij	STAROKUVINSKIJ (ABAZA)	44.1667	41.5000	http://www.geonames.org/488767/starokuvinskiy.html
 28.8.838	RUAb838	Abkhazo-Adyge	Abaza	Cizck-Cuhun	44.0682	41.7870	Cižck-Čuhun	Cizck-Cuhun	CIZCK-CUHUN (ABAZA)	44.0000	41.5000	http://www.geonames.org/556273/inzhich-chukun.html
-28.9.1001	RUAm1001	Armenian	Armenian	Chaltyr	47.2836	39.5012	Chaltyr	Caltyr				http://www.geonames.org/570021/chaltyr.html
+28.9.1001	RUAm1001	Armenian	Armenian	Chaltyr	47.2836	39.5012	Chaltyr	Caltyr	NA	NA	NA	http://www.geonames.org/570021/chaltyr.html
 28.9.901	RUT901	Turkic	Chuvash	M. Karackino	56.0886	46.4538	M. Karačkino	M._Karackino	M. KARACKNIO	56.0000	46.3333	http://www.geonames.org/530747/maloye-karachkino.html
 28.9.902	RUT902	Turkic	Chuvash	Kr. Cetai	55.6940	46.1564	Kr. Četai	Kr._Cetai	KR. CETAI	55.6667	46.1667	http://www.geonames.org/541791/krasnyye-chetai.html
 28.9.903	RUT903	Turkic	Chuvash	Morgaushi	55.9647	46.7685	Margauši	Margausi	MORGAUSI	55.9167	46.8333	http://www.geonames.org/525280/morgaushi.html
@@ -2555,11 +2555,11 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 28.9.940	RUT940	Turkic	Kumyk	Bujnaksk	42.8223	47.1166	Bujnaksk	Bujnaksk	BUJNAKSK	43.1667	47.3333	http://www.geonames.org/570479/buynaksk.html
 28.9.941	UAT941	Turkic	Gagauz	Komrat	46.3167	28.6667	Comrat	Komrat	KOMRAT	46.3333	28.9167	http://www.geonames.org/618405/comrat.html
 28.9.942	UAT942	Turkic	Gagauz	Vulkanesty	45.6832	28.3991	Vulcanesti	Vulkanesty	VULKANESTY	45.7500	28.7500	http://www.geonames.org/617096/vulcanesti.html
-28.9.943	KZT943	Turkic	Kazakh	Kaztalovka	49.7575	48.6950	Kaztalovka	Kaztalovka				http://www.geonames.org/609454/kaztalovka.html
-28.9.944	KZT944	Turkic	Kazakh	Taypaq	49.0369	51.8306	Kalmykovo	Kalmykovo				http://www.geonames.org/609730/taypaq.html
-28.9.945	KZT945	Turkic	Kazakh	Akystau	54.0312	54.7208	Akkystan	Akkystan				http://www.geonames.org/7585396/akystau.html
-28.9.946	RUT946	Turkic	Kazakh	Bajbek	46.6529	48.4545	Bajbek	Bajbek				http://www.geonames.org/578622/baybek.html
-28.9.947	RUT947	Turkic	Kazakh	Kaysatskoe	49.7406	46.8494	Kajsackoje	Kajsackoje				http://www.geonames.org/551594/kaysatskoye.html
+28.9.943	KZT943	Turkic	Kazakh	Kaztalovka	49.7575	48.6950	Kaztalovka	Kaztalovka	NA	NA	NA	http://www.geonames.org/609454/kaztalovka.html
+28.9.944	KZT944	Turkic	Kazakh	Taypaq	49.0369	51.8306	Kalmykovo	Kalmykovo	NA	NA	NA	http://www.geonames.org/609730/taypaq.html
+28.9.945	KZT945	Turkic	Kazakh	Akystau	54.0312	54.7208	Akkystan	Akkystan	NA	NA	NA	http://www.geonames.org/7585396/akystau.html
+28.9.946	RUT946	Turkic	Kazakh	Bajbek	46.6529	48.4545	Bajbek	Bajbek	NA	NA	NA	http://www.geonames.org/578622/baybek.html
+28.9.947	RUT947	Turkic	Kazakh	Kaysatskoe	49.7406	46.8494	Kajsackoje	Kajsackoje	NA	NA	NA	http://www.geonames.org/551594/kaysatskoye.html
 29.0.001	HRS001	Slavic	Croatian	Začretje	46.0808	15.9111	Začretje	Zacretje	ZACRETJE	46.1667	15.9167	http://www.geonames.org/3186954/zacretje.html
 29.0.002	HRS002	Slavic	Croatian	Virje	46.0688	16.9890	Virje	Virje	VIRJE	46.0833	17.0000	http://www.geonames.org/3187699/virje.html
 29.0.003	HRS003	Slavic	Croatian	Žminj	45.1428	13.9065	Žminj	Zminj	ZMINJ	45.1667	13.9167	http://www.geonames.org/3186367/zminj.html
@@ -2594,7 +2594,7 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 29.0.032	RSS032	Slavic	Serbian	Tučepo	42.7386	20.5984	Tučepo	Tucepo	TUCEPO	42.7500	20.6667	http://www.geonames.org/784858/tucep.html
 29.0.033	RSS033	Slavic	Serbian	Pljačkovica	42.5897	21.9033	Pljačkovica	Pljackovica	PLJACKOVICA	42.6667	21.9167	http://www.geonames.org/860354/pljackovica.html
 29.0.034	RSS034	Slavic	Serbian	Drenča	43.4765	21.0545	Drenča	Drenca	no name given	43.4167	21.0833	http://www.geonames.org/835390/drenca.html
-29.0.602	ITS602	Slavic	Croatian	Acquaviva Collecroce	41.8672	14.7469	Acquaviva Collecroce	Acquaviva_Collecroce				http://www.geonames.org/6537498/acquaviva-collecroce.html
+29.0.602	ITS602	Slavic	Croatian	Acquaviva Collecroce	41.8672	14.7469	Acquaviva Collecroce	Acquaviva_Collecroce	NA	NA	NA	http://www.geonames.org/6537498/acquaviva-collecroce.html
 29.1.101	MKS101	Slavic	Macedonian	Ljubance	42.1056	21.4549	Ljubance	Ljubance	LJUBANCE	42.0833	21.5000	http://www.geonames.org/788579/ljubanci.html
 29.1.102	MKS102	Slavic	Macedonian	Lazaropole	41.5361	20.6939	Lazaropole	Lazaropole	LAZAROPOLE	41.5833	20.6667	http://www.geonames.org/788766/lazaropole.html
 29.1.103	MKS103	Slavic	Macedonian	Peštani	41.0157	20.8113	Peštani	Pestani	PESTANI	41.0833	20.8333	http://www.geonames.org/787109/pestani.html
@@ -2612,9 +2612,9 @@ ALEpointcodeOLD	ALEpointcodeNEW	LanguageGroup	Language	PlaceName	Latitude	Longit
 29.3.301	RSAl301	Albanian	Albanian	Bela Crkva	42.3609	20.5939	Bela Crkva	Bela_Crkva	BELA CRKVA (PRES DE ORAHOVAC)	42.4167	20.6667	http://www.geonames.org/792795/bela-crkva.html
 29.3.302	RSAl302	Albanian	Albanian	Babuš	42.4679	21.1823	Babuš	Babus	BABUS (PRES DE LIPLJAN)	42.5000	21.1667	http://www.geonames.org/787791/muhaxherbabush.html
 29.3.303	MKAl303	Albanian	Albanian	Vrapčište	41.8340	20.8840	Vrapčište	Vrapciste	VRAPCISTE (PRES DE GOSTIVAR)	41.8333	20.9167	http://www.geonames.org/784212/vrapciste.html
-29.4.401	RSR401	Romance	Rumanian	Uzdin	45.2028	20.6186	Uzdin	Uzdin	UZDIN	45.1667	20.5833	http://www.geonames.org/784745/uzdin.html
+29.4.401	RSR401	Romance	Romanian	Uzdin	45.2028	20.6186	Uzdin	Uzdin	UZDIN	45.1667	20.5833	http://www.geonames.org/784745/uzdin.html
 29.4.501	RSU501	Ugric	Hungarian	Bačka Topola	45.8167	19.6333	Bačka Topola	Backa_Topola	BACKA TOPOLA	45.8333	19.6667	http://www.geonames.org/3204672/backa-topola.html
-29.4.601	HRR601	Romance	Italian	Rovinj	45.0812	13.6387	Rovinj	Rovinj	ROVINJ	45.0833	13.6667	http://www.geonames.org/3191518/rovinj.html
+29.4.601	HRR601	Romance	N. Italian	Rovinj	45.0812	13.6387	Rovinj	Rovinj	ROVINJ	45.0833	13.6667	http://www.geonames.org/3191518/rovinj.html
 30.0.001	CYH001	Greek	Greek	Paphos	34.7720	32.4297	Paphos	Paphos	PAPHOS	34.8333	32.5000	http://www.geonames.org/146214/paphos.html
 30.0.002	CYH002	Greek	Greek	Tylliria	35.1318	32.6142	Tylliria	Tylliria	TYLLERIA	35.0833	32.6667	http://www.geonames.org/146213/eparchia-pafou.html
 30.0.003	CYH003	Greek	Greek	Marathasa	34.9775	32.8375	Marathasa	Marathasa	MARATHASA	34.9167	33.0000	http://www.geonames.org/12635/marathasa.html
