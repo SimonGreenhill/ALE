@@ -1,0 +1,2766 @@
+﻿ID	Place	Group	Originals	Simplified	COGID	Alignment
+01.0.001	Albanian	Albanian	bubu'tī̃m	bubułī̃m	1	b u - b u ł ī̃ - - - m - -
+01.0.001	Albanian	Albanian	bumu'łim	bumułim	1	b u m - u ł i - - - m - -
+01.0.002	Albanian	Albanian	murmu'rī̃m	murmurī̃m	2	m u r m u r ī̃ m
+01.0.003	Albanian	Albanian	murmuŕē̬̃i̭m	murmuŕē̬̃i̭m	2	m u r m u ŕ ē̬̃i̭ m
+01.0.004	Albanian	Albanian	bubu'łī̃n	bubułī̃n	1	b u - b u ł ī̃ - - - n - -
+01.0.005	Albanian	Albanian	ɉu'māł	ɉumāł	4	ɉ u m ā ł
+01.0.006	Albanian	Albanian	ɉi'mim	ɉimim	4	ɉ i m i m
+01.0.007	Albanian	Albanian	kǝrt͟sǝłim	kǝrt͟sǝłim	1004	k ǝ r t͟s ǝ ł i m
+01.0.007	Albanian	Albanian	ɉi'mim	ɉimim	4	ɉ i m i m
+01.0.008	Albanian	Albanian	ɉǝ̩'mim	ɉǝ̩mim	4	ɉ ǝ̩ m i m
+01.0.009	Albanian	Albanian	bubu'łimǝ	bubułimǝ	1	b u - b u ł i - - - m - ǝ
+01.0.010	Albanian	Albanian	ɉǝ̩'mim	ɉǝ̩mim	4	ɉ ǝ̩ m i m
+02.0.001	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.002	German	Germanic	ǝs d'a͟od	da͟od	5	d a͟o - - - - - - - d - - - - -
+02.0.003	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.004	German	Germanic	d'unɔrɔ	dunɔrɔ	5	d u - n - ɔ - r ɔ - - - - - -
+02.0.005	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.006	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.007	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.008	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.009	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.010	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.011	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.012	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.013	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.014	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.015	German	Germanic	t'aor	taor	6	t ao r - - - - - - - - - - - - -
+02.0.017	German	Germanic	t'ɔnɔrɔ	tɔnɔrɔ	5	t ɔ - n - ɔ - r ɔ - - - - - -
+02.0.018	German	Germanic	kxr'ɔx	kxrɔx	8	k x r ɔ x
+02.0.019	German	Germanic	t'ūrɔ	tūrɔ	6	t ū r - - ɔ - - - - - - - - - -
+02.0.020	German	Germanic	ǝs d'o͟͞uʒd	do͟͟uʒd	5	d o͟͟u ʒ - - - - - - d - - - - -
+02.0.021	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.022	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.024	German	Germanic	ǝs d'o͟͞uʒd	do͟͟uʒd	5	d o͟͟u ʒ - - - - - - d - - - - -
+02.0.025	German	Germanic	t'ɔ̄̃ɣn̩	tɔ̄̃ɣn̩	5	t ɔ̄̃ ɣ n̩ - - - - - - - - - - -
+02.0.026	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.027	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.028	German	Germanic	t'unɔ	tunɔ	5	t u - n - ɔ - - - - - - - - -
+02.0.029	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.030	German	Germanic	ǝs d'o͟͞uʒd	do͟͟uʒd	5	d o͟͟u ʒ - - - - - - d - - - - -
+02.0.031	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.032	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.033	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.034	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.035	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.036	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.036	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+02.0.037	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.038	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.039	German	Germanic	d'unɔrɔ	dunɔrɔ	5	d u - n - ɔ - r ɔ - - - - - -
+02.0.040	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.041	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.041	German	Germanic	t'unɔ	tunɔ	5	t u - n - ɔ - - - - - - - - -
+02.0.043	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.044	German	Germanic	t'ɔndɔ	tɔndɔ	5	t ɔ - n d ɔ - - - - - - - - -
+02.0.046	German	Germanic	t'unɔ	tunɔ	5	t u - n - ɔ - - - - - - - - -
+02.0.047	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.0.048	German	Germanic	d'unɔ	dunɔ	5	d u - n - ɔ - - - - - - - - -
+02.1.101	Croatian	Slavic	gr̩ml’ɑ̄́vina	gr̩ml’ɑ̄́vina	11	g - r̩ - m - - - l’ ɑ̄́ v i n a
+02.1.102	Slovene	Slavic	hǝRmī́ńe	hǝRmī́ńe	11	h ǝ R - m - - - - - - ī́ ń e
+03.1.101	Walloon	Romance	ɔr'ǝʒ	ɔrǝʒ	13	ɔ r ǝ ʒ
+03.1.102	Walloon	Romance	ɔr'ǝʒ	ɔrǝʒ	13	ɔ r ǝ ʒ
+03.1.103	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.104	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.105	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.106	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.107	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.108	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+03.1.109	Walloon	Romance	tɔn'εr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+04.0.001	Bulgarian	Slavic	g'ǝrmεl	gǝrmεl	11	g ǝ r - m ε - - l - - - - -
+04.0.002	Bulgarian	Slavic	tr'εsǝk	trεsǝk	15	t r ε s ǝ k
+04.0.003	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.004	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.005	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.006	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.007	Bulgarian	Slavic	g'ǝrmεʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.007	Bulgarian	Slavic	gǝrm'εʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.008	Bulgarian	Slavic	gǝrm'εʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.008	Bulgarian	Slavic	g'ǝrmεʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.009	Bulgarian	Slavic	gǝrm’'Avit͟sʌ	gǝrm’Avit͟sʌ	11	g ǝ r - m’ - - - - A v i t͟s ʌ
+04.0.010	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.011	Bulgarian	Slavic	g'ǝrmεl	gǝrmεl	11	g ǝ r - m ε - - l - - - - -
+04.0.012	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.013	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.014	Bulgarian	Slavic	g'ǝrmεl	gǝrmεl	11	g ǝ r - m ε - - l - - - - -
+04.0.015	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.016	Bulgarian	Slavic	gr̩ml’'Avit͟sʌ	gr̩ml’Avit͟sʌ	11	g - r̩ - m - - - l’ A v i t͟s ʌ
+04.0.017	Bulgarian	Slavic	grǝm'Avit͟sʌ	grǝmAvit͟sʌ	11	g - r ǝ m - - - - A v i t͟s ʌ
+04.0.018	Bulgarian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+04.0.019	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.020	Bulgarian	Slavic	trisk'Ait͟sʌ	triskAit͟sʌ	1016	t r i s k A i t͟s ʌ
+04.0.021	Bulgarian	Slavic	gǝrm'εʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.021	Bulgarian	Slavic	g'ǝrmεʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.022	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.023	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.024	Bulgarian	Slavic	g'ǝrmεl	gǝrmεl	11	g ǝ r - m ε - - l - - - - -
+04.0.025	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.026	Bulgarian	Slavic	g'ǝrmεl	gǝrmεl	11	g ǝ r - m ε - - l - - - - -
+04.0.027	Bulgarian	Slavic	g'ǝrmεʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.027	Bulgarian	Slavic	gǝrm'εʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.028	Bulgarian	Slavic	g'ǝrmuʃ	gǝrmuʃ	11	ḫ e r - m o - t - - - - - -
+04.0.029	Bulgarian	Slavic	grǝmot'εvit͟sʌ	grǝmotεvit͟sʌ	11	g - r ǝ m o - t - ε v i t͟s ʌ
+04.0.030	Bulgarian	Slavic	gǝrm'εʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.030	Bulgarian	Slavic	g'ǝrmεʃ	gǝrmεʃ	11	ḫ e r - m o - t - a - - - -
+04.0.031	Bulgarian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+05.0.001	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.002	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.003	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.004	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.005	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.006	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.007	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.008	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.009	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.010	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.011	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.011	Danish	Germanic	tʰ'orḓne̩ŋ	tʰorḓne̩ŋ	6	tʰ o r ḓ n e̩ - ŋ - - - - - - - -
+05.0.012	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.013	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.014	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.015	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.016	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.017	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.017	Danish	Germanic	ḓoneg̭	ḓoneg̭	5	ḓ o - n - e - - - g̭ - - - - -
+05.0.018	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.019	Danish	Germanic	tʰorḓǝn	tʰorḓǝn	6	tʰ o r ḓ - ǝ - n - - - - - - - -
+05.0.020	Danish	Germanic	dœnǝ	dœnǝ	5	d œ - n - ǝ - - - - - - - - -
+05.0.301	NA	Germanic	d'onǝkslˌA͟ux	donǝkslA͟ux	5	d o - n - ǝ - - - k - s l A͟u x
+05.0.301	NA	Germanic	xǝve'ḓǝr	xǝveḓǝr	1020	x ǝ v e ḓ ǝ r
+06.0.001	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.002	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.003	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.004	Galician	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.005	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.006	Spanish	Romance	trw'enu	trwenu	21	t r w e n u - -
+06.0.007	Spanish	Romance	trw'enu	trwenu	21	t r w e n u - -
+06.0.007	Spanish	Romance	tron'AδA	tronAδA	21	t r - u n e r o
+06.0.008	Spanish	Romance	trw'enu	trwenu	21	t r w e n u - -
+06.0.009	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.010	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.011	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.012	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.013	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.017	Spanish	Romance	trum'ojA	trumojA	21	t r - o n i t a
+06.0.017	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.018	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.019	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.020	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.021	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.023	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.024	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.025	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.026	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.027	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.028	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.029	Spanish	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.030	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.031	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.032	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.033	Spanish	Romance	trw'ḙno	trwḙno	21	t r w ḙ n o - -
+06.0.034	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.035	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.036	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.039	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.040	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.041	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.042	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.043	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.044	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.045	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.045	Spanish	Romance	tr'on	tron	21	t r - o n - - -
+06.0.046	Galician	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.046	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.047	Galician	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.047	Galician	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.048	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.048	Spanish	Romance	tr'o̭no̭	tro̭no̭	21	t r - o̭ n o̭ - -
+06.0.049	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.050	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.051	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.052	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.053	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.054	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.055	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.056	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.057	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.058	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.059	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.060	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.061	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.062	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.063	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.064	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.065	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.066	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.067	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.068	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.069	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.070	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.071	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.072	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.073	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.074	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.075	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.076	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.077	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.078	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.079	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.080	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.081	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.082	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.083	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.084	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.085	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.086	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.087	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.088	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.089	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.090	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.091	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.092	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.093	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.094	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.095	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.096	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.097	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.098	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.099	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.100	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.101	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.102	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.103	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.104	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.105	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.106	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.107	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.108	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.109	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.110	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.111	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.112	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.112	Spanish	Romance	torm'ẽntA	tormẽntA	1022	t o r m ẽ n t A
+06.0.113	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.114	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.115	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.116	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.117	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.118	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.119	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.121	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.122	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.123	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.124	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.125	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.126	Spanish	Romance	torm'ẽntA	tormẽntA	1022	t o r m ẽ n t A
+06.0.126	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.127	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.129	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.0.130	Spanish	Romance	trw'eno	trweno	21	t r w e n o - -
+06.2.201	Catalan	Romance	tr'ɔn	trɔn	21	t r - ɔ n - - -
+06.2.202	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.203	Catalan	Romance	tr'o	tro	21	t r - o - - - -
+06.2.204	Catalan	Romance	tr'o	tro	21	t r - o - - - -
+06.2.205	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.206	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.207	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.208	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.209	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.210	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.211	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.212	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.213	Catalan	Romance	tr'o	tro	21	t r - o - - - -
+06.2.213	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.214	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.215	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.216	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.217	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.218	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.219	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.220	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.221	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.222	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.223	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.224	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+06.2.225	Catalan	Romance	tr'ɔn	trɔn	21	t r - ɔ n - - -
+06.2.225	Catalan	Romance	tr'ɔ	trɔ	21	t r - ɔ - - - -
+07.0.001	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.001	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.001	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.002	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.002	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.003	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.004	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.005	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.006	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.007	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.007	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.008	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.009	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.009	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.010	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.011	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.012	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.013	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.013	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.014	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.014	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.014	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.015	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.015	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.016	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.016	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.016	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.017	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.017	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.017	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.018	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.018	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.019	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.020	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.021	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.021	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.022	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.022	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.022	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.023	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.023	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.101	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.101	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.102	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.103	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.104	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.104	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.107	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.107	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.109	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.109	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.111	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.113	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.116	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.118	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.118	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.118	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.119	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.119	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.120	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.120	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.121	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.121	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.122	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.123	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.123	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.125	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.127	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.128	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.129	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.130	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.133	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.135	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.136	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.136	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.137	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.137	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.138	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.138	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.139	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.140	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.140	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.141	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.141	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.142	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.143	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.143	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.145	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.145	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.146	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.147	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.147	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.148	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.148	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.149	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.150	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.152	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.153	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.154	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.155	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.156	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.157	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.158	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.159	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.163	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.164	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.165	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.166	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.169	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.170	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.172	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.174	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.174	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.177	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.178	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.179	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.179	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.180	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.181	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.182	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.183	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.183	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.184	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.184	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.185	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.185	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.185	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.186	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.186	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.186	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.187	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.187	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.188	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.188	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.188	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.189	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.189	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.192	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.193	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.195	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.196	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.200	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.201	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.202	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+07.0.204	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.205	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.207	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.209	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.219	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.220	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.222	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.223	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.224	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.225	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.226	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.226	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.227	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.227	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.228	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.229	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.0.229	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+07.0.229	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.231	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+07.0.232	Finnish	Finnic	'isænen	isænen	24	i s æ n e n
+07.0.234	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+07.5.501	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.502	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.503	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.504	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.505	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.506	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.601	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.602	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.603	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.604	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.605	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.606	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.5.607	Swedish	Germanic	ɔ\s̄kA	ɔ\s̄kA	26	ɔ\ s̄ k A
+07.9.901	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.902	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.903	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.904	Saami	Lapp	'εjjih	εjjih	29	ε j j i h
+07.9.905	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.923	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.924	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.925	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.927	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.928	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.929	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.930	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.933	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.934	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.935	Saami	Lapp	h'uwrǝ͔no͟ɔrjā	huwrǝ͔no͟ɔrjā	31	h u w r ǝ͔ n o͟ɔ - r jā
+07.9.941	Saami	Lapp	'āt’͟ʃ’ā	āt’͟ʃ’ā	32	ā t’͟ʃ’ ā - - - - - -
+07.9.941	Saami	Lapp	j'oh̄tī	joh̄tī	33	j o h̄ t ī
+07.9.942	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.943	Saami	Lapp	'āt’͟t’ā	āt’͟t’ā	32	ā t’͟t’ ā - - - - - -
+07.9.943	Saami	Lapp	p'āsun	pāsun	27	p ā s u n
+07.9.943	Saami	Lapp	p'ajān	pajān	27	p a j ā n
+07.9.944	Saami	Lapp	'āt’͟ʃ’a j'uhtā	āt’͟ʃ’ajuhtā	32	ā t’͟ʃ’ a j u h t - ā
+07.9.944	Saami	Lapp	r'ajri j'uhtā	rajrijuhtā	30	r a j r i j u h t ā
+07.9.945	Saami	Lapp	'āt’͟t’ā	āt’͟t’ā	32	ā t’͟t’ ā - - - - - -
+07.9.946	Saami	Lapp	'āt’͟t’ā	āt’͟t’ā	32	ā t’͟t’ ā - - - - - -
+07.9.946	Saami	Lapp	'āt’͟ʃ’ā	āt’͟ʃ’ā	32	ā t’͟ʃ’ ā - - - - - -
+07.9.947	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.947	Saami	Lapp	'ātʃīkutʃǝ	ātʃīkutʃǝ	32	ā tʃ ī k u - t ʃ ǝ
+07.9.948	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.949	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.951	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.952	Saami	Lapp	r'ējri͟e	rējri͟e	30	r ē j r i͟e - - - - -
+07.9.954	Saami	Lapp	r'aj̄tē	raj̄tē	30	r a j̄ - - - - - t ē
+07.9.954	Saami	Lapp	h'uwrǝ͔sokti͟e	huwrǝ͔sokti͟e	31	h u w r ǝ͔ s o k t i͟e
+07.9.954	Saami	Lapp	h'uwrǝ͔no͟ɔrjā	huwrǝ͔no͟ɔrjā	31	h u w r ǝ͔ n o͟ɔ - r jā
+07.9.981	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.982	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.983	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.984	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+07.9.985	Saami	Lapp	t'i͟er’m’es’	ti͟er’m’es’	28	t i͟e r’ m’ e s’
+08.0.002	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.003	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.004	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.005	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.006	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.007	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.008	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.009	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.010	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.011	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.012	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.013	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.014	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.015	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.016	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.017	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.018	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.019	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.020	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.021	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.022	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.023	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.024	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.025	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.026	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.027	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.028	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.029	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.030	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.031	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.032	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.033	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.034	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.035	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.036	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.037	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.038	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.039	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.040	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.041	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.042	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.043	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.044	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.045	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.046	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.047	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.048	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.049	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.050	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.051	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.052	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.053	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.054	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.055	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.056	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.057	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.058	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.059	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.060	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.061	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.062	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.063	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.064	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.065	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.066	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.067	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.068	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.069	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.070	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.071	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.072	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.073	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.074	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.075	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.076	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.077	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.078	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.079	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.080	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.081	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.082	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.083	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.084	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.085	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.086	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.087	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.088	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.089	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.090	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.091	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.092	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.093	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.094	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.095	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.096	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.097	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.098	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.099	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.100	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.101	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.102	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.103	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.104	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.105	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.106	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.107	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.108	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.109	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.110	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.111	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.112	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.113	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.119	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.120	Gallo-Roman	Romance	tun	tun	21	t - - u n - - -
+08.0.121	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.122	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.123	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.124	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.125	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.126	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.127	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.128	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.129	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.130	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.131	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.132	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.133	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.134	Gallo-Roman	Romance	tun	tun	21	t - - u n - - -
+08.0.135	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.136	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.137	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.138	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.139	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.140	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.141	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.142	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.143	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.144	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.145	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.146	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.147	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.148	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.149	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.150	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.151	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.152	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.153	Gallo-Roman	Romance	ʃalε̃	ʃalε̃	36	ʃ a l ε̃
+08.0.154	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.155	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.156	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.157	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.158	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.159	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.160	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.161	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.162	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.163	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.164	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.165	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.166	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.167	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.168	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.169	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.170	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.171	Gallo-Roman	Romance	pœn'εr	pœnεr	5	p œ - n - ε - r - - - - - - -
+08.0.172	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.173	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.174	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.175	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.176	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.177	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.178	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.179	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.180	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.181	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.182	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.183	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.184	Gallo-Roman	Romance	tun'adɔ	tunadɔ	5	t u - n - a d - ɔ - - - - - -
+08.0.185	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.186	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.187	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.188	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.189	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.190	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.191	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.192	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.193	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.194	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.195	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.196	Gallo-Roman	Romance	tun'edre	tunedre	5	t u - n - e d r e - - - - - -
+08.0.197	Gallo-Roman	Romance	tun'adɔ	tunadɔ	5	t u - n - a d - ɔ - - - - - -
+08.0.198	Gallo-Roman	Romance	tun'adɔ	tunadɔ	5	t u - n - a d - ɔ - - - - - -
+08.0.199	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.200	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.201	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.202	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.203	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.204	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.205	Gallo-Roman	Romance	tõns	tõns	5	t õ - n - - s - - - - - - - -
+08.0.206	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.207	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.208	Gallo-Roman	Romance	tun'edre	tunedre	5	t u - n - e d r e - - - - - -
+08.0.209	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.210	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.211	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.212	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.213	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.214	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.215	Gallo-Roman	Romance	turnw'ejre	turnwejre	6	t u r - n - - - we - j r e - - -
+08.0.216	Gallo-Roman	Romance	turnw'ejre	turnwejre	6	t u r - n - - - we - j r e - - -
+08.0.217	Gallo-Roman	Romance	turnw'ejre	turnwejre	6	t u r - n - - - we - j r e - - -
+08.0.218	Gallo-Roman	Romance	tõns	tõns	5	t õ - n - - s - - - - - - - -
+08.0.219	Gallo-Roman	Romance	tõns	tõns	5	t õ - n - - s - - - - - - - -
+08.0.220	Gallo-Roman	Romance	tun'edre	tunedre	5	t u - n - e d r e - - - - - -
+08.0.221	Gallo-Roman	Romance	tun'edre	tunedre	5	t u - n - e d r e - - - - - -
+08.0.222	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.223	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.224	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.225	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.226	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.227	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.228	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.229	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.230	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.231	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.232	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.233	Gallo-Roman	Romance	tun'edre	tunedre	5	t u - n - e d r e - - - - - -
+08.0.234	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.235	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.236	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.237	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.238	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.239	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.240	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.241	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.242	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.243	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.244	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.245	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.246	Gallo-Roman	Romance	pet de per'ikle	perikle	39	p e r i k - l e
+08.0.247	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.248	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.249	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.250	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.251	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.252	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.253	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.254	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.255	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.256	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.257	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.258	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.259	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.260	Gallo-Roman	Romance	or'adʒœ	oradʒœ	35	o r a d ʒ œ
+08.0.261	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.262	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.263	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.264	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.265	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.266	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.267	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.268	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.269	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.270	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.271	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.272	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.273	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.274	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.275	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.276	Gallo-Roman	Romance	prigul	prigul	39	p - r i g u l -
+08.0.277	Gallo-Roman	Romance	trun'ero	trunero	21	t r - ǝu n e t -
+08.0.278	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.279	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.280	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.281	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.282	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.283	Gallo-Roman	Romance	pe'rikle	perikle	39	p e r i k - l e
+08.0.284	Gallo-Roman	Romance	prigul	prigul	39	p - r i g u l -
+08.0.285	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.286	Gallo-Roman	Romance	trun	trun	21	t r - u n - - -
+08.0.287	Catalan	Romance	trun	trun	21	t r - u n - - -
+08.0.288	Catalan	Romance	trun	trun	21	t r - u n - - -
+08.0.289	Catalan	Romance	trun	trun	21	t r - u n - - -
+08.0.290	Catalan	Romance	trun	trun	21	t r - u n - - -
+08.0.291	Catalan	Romance	trun	trun	21	t r - u n - - -
+08.0.292	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.293	Gallo-Roman	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.401	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+08.0.402	Franco-Provençal	Romance	trun	trun	21	t r - u n - - -
+08.0.801	NA	Germanic	r'Ωbel	rΩbel	1008	r Ω b e l
+08.5.501	Corsican	Romance	tr'ɔnu	trɔnu	21	t r - ɔ n u - -
+08.5.502	Corsican	Romance	d'ɔnu	dɔnu	5	d ɔ - n - u - - - - - - - - -
+08.5.503	Corsican	Romance	t'ɔ̃nu	tɔ̃nu	5	t ɔ̃ - n - u - - - - - - - - -
+08.5.504	Corsican	Romance	d'ɔnu	dɔnu	5	d ɔ - n - u - - - - - - - - -
+08.5.505	Corsican	Romance	d'ɔnu	dɔnu	5	d ɔ - n - u - - - - - - - - -
+08.5.506	Corsican	Romance	zɔmz'ɔrdu	zɔmzɔrdu	41	z ɔ m z ɔ r d u
+08.5.507	Corsican	Romance	z'ɔnu	zɔnu	5	z ɔ - n - u - - - - - - - - -
+08.7.701	Breton	Celtic	k’'y(r)en	k’yren	42	k’ y r e n -
+08.7.702	Breton	Celtic	k'ȳryn	kȳryn	42	k ȳ r y n -
+08.7.703	Breton	Celtic	g'yryn	gyryn	42	g y r y n -
+08.7.704	Breton	Celtic	kyr'ȳno	kyrȳno	42	k y r ȳ n o
+08.7.705	Breton	Celtic	d͟z’ǝrǝn	d͟z’ǝrǝn	43	d͟z’ ǝ r ǝ n
+08.7.706	Breton	Celtic	før'œ̃̄n	førœ̃̄n	43	f ø r œ̃̄ n
+08.9.901	Basque	Basque	iurtsuria	iurtsuria	44	i u r t s u r i a
+08.9.902	Basque	Basque	iur̭tsuria	iur̭tsuria	44	i u r̭ t s u r i a
+08.9.903	Basque	Basque	ḓỹnd̯á	ḓỹnd̯á	5	ḓ ỹ - n d̯ á - - - - - - - - -
+08.9.904	Basque	Basque	iurtsurja	iurtsurja	44	i u r t s u r j a
+09.0.001	English	Germanic	ru̬mblEn	ru̬mblEn	1046	r u̬ m b l E n
+09.0.002	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.003	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.004	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.005	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.006	English	Germanic	Ets θ'ʌndǝrEŋ	EtsθʌndǝrEŋ	48	E t s θ ʌ n d ǝ r E ŋ
+09.0.006	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.007	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.008	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.009	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.010	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.011	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.012	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.013	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.014	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.015	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.016	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.017	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.018	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.019	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.020	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.021	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.022	English	Germanic	Ets θ'ʌndǝrEŋ	EtsθʌndǝrEŋ	48	E t s θ ʌ n d ǝ r E ŋ
+09.0.023	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.024	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.025	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.026	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.027	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.028	English	Germanic	Ets θ'ʌndǝrEŋ	EtsθʌndǝrEŋ	48	E t s θ ʌ n d ǝ r E ŋ
+09.0.029	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.030	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.031	English	Germanic	klap ǝ θ'u̬ndǝ	klapǝθu̬ndǝ	59	- k l a p ǝ θ u̬ n d ǝ
+09.0.033	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.034	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.035	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.036	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.037	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.038	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.039	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.040	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.041	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.042	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.043	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.044	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.045	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.046	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.047	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.048	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.049	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.050	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.051	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.052	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.053	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.054	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.055	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.056	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.057	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.059	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.060	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.061	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.062	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.063	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.064	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.065	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.0.066	English	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.1.101	Welsh	Celtic	taranaE	taranaE	49	t a r a n a E
+09.1.102	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.103	English	Germanic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.104	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.105	Welsh	Celtic	t'a̷ran	ta̷ran	49	t a̷ r a n - -
+09.1.106	Welsh	Celtic	taranaE	taranaE	49	t a r a n a E
+09.1.107	Welsh	Celtic	turu	turu	1049	t u r - u
+09.1.108	Welsh	Celtic	tǝrvε	tǝrvε	1049	t ǝ r v ε
+09.1.109	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.110	English	Germanic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.111	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.112	English	Germanic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.113	English	Germanic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.114	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.115	Welsh	Celtic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.1.116	English	Germanic	θ'ʌndǝ	θʌndǝ	5	θ ʌ - n d ǝ - - - - - - - - -
+09.2.201	Scots	Germanic	θ'ʌndEr	θʌndEr	5	θ ʌ - n d E - r - - - - - - -
+09.2.202	Scots	Germanic	θ'ʌndEr	θʌndEr	5	θ ʌ - n d E - r - - - - - - -
+09.2.203	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.2.204	Scots	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.2.205	Scots	Germanic	θ'ʌnEr	θʌnEr	5	θ ʌ - n - E - r - - - - - - -
+09.2.206	Scots	Germanic	θ'ʌnḓǝr	θʌnḓǝr	5	θ ʌ - n ḓ ǝ - r - - - - - - -
+09.2.207	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.2.208	Scots	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.2.209	Scots	Germanic	θ'ʌndEr	θʌndEr	5	θ ʌ - n d E - r - - - - - - -
+09.2.210	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.2.211	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.2.212	Scots	Germanic	θ'ʌnʌr	θʌnʌr	5	θ ʌ - n - ʌ - r - - - - - - -
+09.2.213	Scots	Germanic	θ'ʌndǝr	θʌndǝr	5	θ ʌ - n d ǝ - r - - - - - - -
+09.2.214	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.2.215	Scots	Germanic	θ'ʌnǝr	θʌnǝr	5	θ ʌ - n - ǝ - r - - - - - - -
+09.3.216	Gaellic	Celtic	tʰ'ār̤n̤õnĩç	tʰārnõnĩç	51	tʰ ā r n õ n ĩ ç
+09.3.217	Gaellic	Celtic	tʰ'ār̤niç	tʰārniç	51	tʰ ā r - - n i ç
+09.3.218	Gaellic	Celtic	tʰ'ār̤̥ɲãniç	tʰārɲãniç	51	tʰ ā r̥ ɲ ã n i ç
+09.3.219	Gaellic	Celtic	tʰ'arĩɲ̭	tʰarĩɲ̭	51	tʰ a r - ĩ ɲ̭ - -
+09.3.220	Gaellic	Celtic	tʰ'ār̤ɲǝ̃niç	tʰārɲǝ̃niç	51	tʰ ā r ɲ ǝ̃ n i ç
+09.3.221	Gaellic	Celtic	tʰ'ār̤n̤ãnọ̃x	tʰārnãnọ̃x	51	tʰ ā r n ã n ọ̃ x
+09.3.222	Gaellic	Celtic	tʰ'ār̤ɲãnʌx	tʰārɲãnʌx	51	tʰ ā r ɲ ã n ʌ x
+09.3.223	Gaellic	Celtic	tʰ'ārniɲʌx	tʰārniɲʌx	51	tʰ ā r n i ɲ ʌ x
+09.3.224	Gaellic	Celtic	tʰ'ɔ̬̄rn̤iç	tʰɔ̬̄rniç	51	tʰ ɔ̬̄ r - - n i ç
+10.0.001	Greek	Greek	vr'ondima	vrondima	53	v r o n d i m a
+10.0.002	Greek	Greek	bumb'una	bumbuna	1	b u m b u n a - - - - - -
+10.0.004	Greek	Greek	bumbunistarj'o	bumbunistarjo	1	b u m b u n i s t a r j o
+10.0.005	Greek	Greek	bumbunarj'a	bumbunarja	1	b u m b u n - - - a r j a
+10.0.006	Greek	Greek	vrond'ai	vrondai	53	v r o n d a - i
+10.0.008	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.009	Greek	Greek	vrond'ai	vrondai	53	v r o n d a - i
+10.0.010	Greek	Greek	vrond'ai	vrondai	53	v r o n d a - i
+10.0.011	Greek	Greek	bumbunarj'a	bumbunarja	1	b u m b u n - - - a r j a
+10.0.012	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.013	Greek	Greek	bumbunarj'a	bumbunarja	1	b u m b u n - - - a r j a
+10.0.014	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.015	Greek	Greek	bumb'unizma	bumbunizma	1	b u m b u n i z - - m - a
+10.0.016	Greek	Greek	bumb'unizma	bumbunizma	1	b u m b u n i z - - m - a
+10.0.017	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.018	Greek	Greek	bumbun’'a	bumbun’a	1	b u m b u n’ a - - - - - -
+10.0.018	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.019	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.021	Greek	Greek	bumb'un’ama	bumbun’ama	1	b u m b u n’ a - - - m - a
+10.0.022	Greek	Greek	bumbunistarj'a	bumbunistarja	1	b u m b u n i s t a r j a
+10.0.023	Greek	Greek	bumb'unizma	bumbunizma	1	b u m b u n i z - - m - a
+10.0.026	Greek	Greek	bumbunistarj'a	bumbunistarja	1	b u m b u n i s t a r j a
+10.0.027	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.029	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.030	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.031	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.032	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.033	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.034	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.034	Greek	Greek	b'umbunas	bumbunas	1	b u m b u n a s - - - - -
+10.0.035	Greek	Greek	bumb'unizma	bumbunizma	1	b u m b u n i z - - m - a
+10.0.036	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.038	Greek	Greek	bumbunitarj'o	bumbunitarjo	1	b u m b u n i - t a r j o
+10.0.039	Greek	Greek	bumb'unizma	bumbunizma	1	b u m b u n i z - - m - a
+10.0.039	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.040	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.041	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.042	Greek	Greek	vrond'ai	vrondai	53	v r o n d a - i
+10.0.043	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.044	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.045	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.046	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.047	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.048	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.049	Greek	Greek	bumbunitarj'o	bumbunitarjo	1	b u m b u n i - t a r j o
+10.0.050	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.051	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.052	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.053	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.054	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.055	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.057	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.058	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.059	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.060	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.061	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.062	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.063	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.064	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.065	Greek	Greek	bumbun’'a	bumbun’a	1	b u m b u n’ a - - - - - -
+10.0.066	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.067	Greek	Greek	bumbunit'o	bumbunito	1	p u m b u - - - - - r g a
+10.0.068	Greek	Greek	bumbun'izi	bumbunizi	1	b u m b u n i z - - - - i
+10.0.069	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.070	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.071	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.072	Greek	Greek	vrond'ai	vrondai	53	v r o n d a - i
+10.0.073	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.074	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.075	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.076	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.077	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.078	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+10.0.511	Greek	Greek	vrond'i	vrondi	53	v r o n d i - -
+11.0.001	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.002	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.002	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.003	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.004	Hungarian	Ugric	'ēgdørgēʃ	ēgdørgēʃ	55	- ē g d ø r - - g ē ʃ
+11.0.005	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.006	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.007	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.007	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.008	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.008	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.008	Hungarian	Ugric	z'εngēʃ	zεngēʃ	55	- - - z - - ε n g ē ʃ
+11.0.008	Hungarian	Ugric	'ēgihāborū	ēgihāborū	56	ē g i h ā b o r ū
+11.0.009	Hungarian	Ugric	t͟ʃ'ɔt̄ogāʃ	t͟ʃɔt̄ogāʃ	57	t͟ʃ ɔ t̄ o g ā ʃ
+11.0.009	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.009	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.009	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.010	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.011	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.012	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.013	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.014	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.015	German	Germanic	tunǝwejt̮ǝ	tunǝ	5	t u - n - ǝ - - - - - - - - -
+11.0.016	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.017	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.017	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.018	Slovak	Slavic	hrm'avit͟sa	hrmavit͟sa	11	h - r - m - - - - a v i t͟s a
+11.0.019	Hungarian	Ugric	z'ørgēʃ	zørgēʃ	55	- - - z ø r - - g ē ʃ
+11.0.019	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.019	Hungarian	Ugric	t͟ʃ'ɔt̄ɔnāʃ	t͟ʃɔt̄ɔnāʃ	57	t͟ʃ ɔ t̄ ɔ n ā ʃ
+11.0.020	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.020	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.021	Hungarian	Ugric	d'ør̄εnēʃ	dør̄εnēʃ	55	- - - d ø r̄ ε n - ē ʃ
+11.0.021	Hungarian	Ugric	z'εngēʃ	zεngēʃ	55	- - - z - - ε n g ē ʃ
+11.0.021	Hungarian	Ugric	t͟ʃ'ɔt̄ɔnāʃ	t͟ʃɔt̄ɔnāʃ	57	t͟ʃ ɔ t̄ ɔ n ā ʃ
+11.0.022	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.022	Hungarian	Ugric	d'ør̄εnēʃ	dør̄εnēʃ	55	- - - d ø r̄ ε n - ē ʃ
+11.0.023	Hungarian	Ugric	z'εngēʃ	zεngēʃ	55	- - - z - - ε n g ē ʃ
+11.0.023	Hungarian	Ugric	t͟ʃ'ɔt̄ɔnāʃ	t͟ʃɔt̄ɔnāʃ	57	t͟ʃ ɔ t̄ ɔ n ā ʃ
+11.0.024	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.024	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.025	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.026	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.027	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.028	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.028	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.029	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.030	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.031	Hungarian	Ugric	'ēgihāborū	ēgihāborū	56	ē g i h ā b o r ū
+11.0.031	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.031	Hungarian	Ugric	'ēgdørgēʃ	ēgdørgēʃ	55	- ē g d ø r - - g ē ʃ
+11.0.032	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.033	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.034	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+11.0.035	Croatian	Slavic	gr̭̄mʎàvina	gr̭̄mʎàvina	11	g - r̭̄ - m - - - ʎ à v i n a
+11.0.036	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.037	Hungarian	Ugric	'ēgihāborū	ēgihāborū	56	ē g i h ā b o r ū
+11.0.037	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.038	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+11.0.038	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.039	Hungarian	Ugric	'ēgzεngēʃ	ēgzεngēʃ	55	- ē g z - - ε n g ē ʃ
+11.0.039	Hungarian	Ugric	'ēgdørgēʃ	ēgdørgēʃ	55	- ē g d ø r - - g ē ʃ
+11.0.040	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+12.1.103	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+12.1.104	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+12.1.107	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+12.1.107	English	Germanic	ak͕la̭p	ak͕la̭p	59	a k͕ l a̭ p - - - - - -
+12.1.108	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+12.1.111	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+12.1.112	English	Germanic	θ'Andǝ	θAndǝ	5	θ A - n d ǝ - - - - - - - - -
+13.0.001	Islandic	Germanic	sk̭r'ǝg̭͟g̭a	sk̭rǝg̭͟g̭a	1026	s k̭ r ǝ g̭͟g̭ a
+14.0.002	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.003	Friulian and Ladin	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.004	Friulian and Ladin	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.005	Friulian and Ladin	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.007	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.008	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.009	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.011	Friulian and Ladin	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.012	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.013	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.013	N. Italian	Romance	tuonata	tuonata	5	t uo - n - a - - - t a - - - -
+14.0.014	N. Italian	Romance	tr'onita	tronita	21	t r - o n A δ A
+14.0.014	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.015	N. Italian	Romance	tuonata	tuonata	5	t uo - n - a - - - t a - - - -
+14.0.016	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.017	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.018	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.019	Friulian and Ladin	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.020	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.021	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.022	N. Italian	Romance	al toŋ de la sa'eta	altoŋdelasaeta	1060	a l t o ŋ d e l a s a e t a
+14.0.023	N. Italian	Romance	tɔrn'u̬jre	tɔrnu̬jre	6	t ɔ r - n - - - u̬ - j r e - - -
+14.0.024	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.025	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.026	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.027	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.028	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.029	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.030	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.031	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.032	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.033	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.034	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.036	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.037	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.038	N. Italian	Romance	bun'ito	bunito	61	b u n i t o
+14.0.039	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.040	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.041	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.042	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.043	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.044	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.045	N. Italian	Romance	t'ōni̬du	tōni̬du	5	t ō - n - i̬ - - - d u - - - -
+14.0.046	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.047	N. Italian	Romance	b'ɔt̄a	bɔt̄a	2060	b ɔ t̄ a
+14.0.048	N. Italian	Romance	β'ɔm̄ǝtǝ	βɔm̄ǝtǝ	62	- - β - ɔ m̄ ǝ t ǝ
+14.0.049	N. Italian	Romance	β'ɔm̄ǝtǝ	βɔm̄ǝtǝ	62	- - β - ɔ m̄ ǝ t ǝ
+14.0.049	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.050	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.051	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.052	N. Italian	Romance	tuonata	tuonata	5	t uo - n - a - - - t a - - - -
+14.0.053	C. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.054	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.055	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.056	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.057	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.058	C. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.059	C. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.060	C. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.061	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.062	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.063	C. Italian	Romance	tr'onita	tronita	21	t r - o n A δ A
+14.0.064	C. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.301	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.302	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.0.303	N. Italian	Romance	tw'ɔno	twɔno	5	t wɔ - n - o - - - - - - - - -
+14.6.601	Slovene	Slavic	grɔm	grɔm	17	- - g r ɔ m - - - - -
+14.7.701	Albanian	Albanian	ndru'Ωnǝtǝ	ndruΩnǝtǝ	62	n d r u Ω n ǝ t ǝ
+14.8.805	German	Germanic	t'Ωnda͔rlAr	tΩnda͔rlAr	5	t Ω - n d a͔ - r - - - - l A r
+14.8.805	German	Germanic	t'Ωnda͔rn	tΩnda͔rn	5	t Ω - n d a͔ - r - n - - - - -
+15.0.001	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+15.0.002	German	Germanic	d'imǝR	dimǝR	5	d i - m - ǝ - R - - - - - - -
+16.0.001	Maltese	Arabic	ra:ḓ	ra:ḓ	64	r a: ḓ
+17.0.001	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.001	Norwegian	Germanic	tʰ'o̭rden	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.002	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.002	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.003	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.003	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.004	Norwegian	Germanic	tʰ'o̭rden	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.004	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.005	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.005	Norwegian	Germanic	tʰ'o̭rden	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.006	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.006	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.007	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.007	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.008	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.008	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.009	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.009	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.010	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.010	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.011	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.011	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.012	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.012	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.013	Norwegian	Germanic	tʰ'o̭rden	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.013	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.013	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.013	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.014	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.014	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.014	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.014	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.016	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.016	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.018	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.018	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.019	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.019	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.020	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.020	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.020	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.021	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.021	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.022	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.022	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.022	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.022	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.023	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.023	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.025	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.025	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.025	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.025	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.026	Norwegian	Germanic	tʰ'o̭rden	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.026	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.027	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.027	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.028	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.028	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.029	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.029	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.030	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.030	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.031	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.032	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.033	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.035	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.036	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.037	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.037	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.038	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.038	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.039	Norwegian	Germanic	tʰō̭rn	tʰō̭rn	6	tʰ ō̭ r - n - - - - - - - - - - -
+17.0.040	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.040	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.040	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.041	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.041	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.041	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.041	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.041	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.042	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.042	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.043	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.043	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.044	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.044	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.045	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.045	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.045	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.045	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.046	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.046	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.047	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.047	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.048	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.048	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.049	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.049	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.050	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.050	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.050	Norwegian	Germanic	tʰō̭\regΩŋ̄	tʰō̭\regΩŋ̄	6	tʰ ō̭\ r - - e - - - - g - Ω - - ŋ̄
+17.0.051	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.051	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.052	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.052	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.053	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.053	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.054	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.054	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.054	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.055	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.056	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.056	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.057	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.057	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.057	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.057	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.058	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.058	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.059	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.060	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.060	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.061	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.061	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.062	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.062	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.063	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.063	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.063	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.063	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.064	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.064	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.064	Norwegian	Germanic	v'ē\rdȳ̬n	vē\rdȳ̬n	65	v ē\ r d ȳ̬ n
+17.0.064	Norwegian	Germanic	tʰ'ō̭\redŋ̄n	tʰō̭\redŋ̄n	6	tʰ ō̭\ r - - e d ŋ̄n - - - - - - - -
+17.0.064	Norwegian	Germanic	v'ē\rdŋ̄n	vē\rdŋ̄n	65	v ē\ r d i̬͟j n
+17.0.065	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.065	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.066	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.066	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.067	Norwegian	Germanic	tʰ'ō̭\redŋ̄n	tʰō̭\redŋ̄n	6	tʰ ō̭\ r - - e d ŋ̄n - - - - - - - -
+17.0.067	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.067	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.068	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.068	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.068	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.068	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.069	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.069	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.070	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.070	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.071	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.071	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.071	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.071	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.072	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.072	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.072	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.073	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.073	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.073	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.073	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.074	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.074	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.075	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.075	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.076	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.076	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.077	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.077	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.078	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.078	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.079	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.079	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.079	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.079	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.080	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.080	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.080	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.080	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.081	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.081	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.081	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.081	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.082	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.082	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.082	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.082	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.083	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.083	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.083	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.084	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.084	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.084	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.085	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.085	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.085	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.086	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.086	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.086	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.086	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.086	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.086	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.086	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.087	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.087	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.087	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.088	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.088	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.088	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.089	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.089	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.090	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.090	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.090	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.090	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.091	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.091	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.091	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.091	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.092	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+17.0.092	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.093	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.093	Norwegian	Germanic	tʰ'ō̭\rniŋ	tʰō̭\rniŋ	6	tʰ ō̭\ r - n i - ŋ - - - - - - - -
+17.0.093	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.093	Norwegian	Germanic	tʰō̭\rniŋ	tʰō̭\rniŋ	6	tʰ ō̭\ r - n i - ŋ - - - - - - - -
+17.0.094	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.094	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.094	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.094	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.095	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.095	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.095	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.095	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.096	Norwegian	Germanic	tʰō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.096	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.096	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.096	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.096	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.096	Norwegian	Germanic	tʰ'ō̭\rslɔ̭t͟ʰ	tʰō̭\rslɔ̭t͟ʰ	6	tʰ ō̭\ r - - - - - - s - l ɔ̭ t͟ʰ - -
+17.0.097	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.097	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.097	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.097	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.098	Norwegian	Germanic	h'ʉ\spre͟i(e)	hʉ\spre͟ie	66	h ʉ\ s p r e͟i e
+17.0.098	Norwegian	Germanic	h'ū̵\sprε͟i(e)	hū̵\sprε͟ie	66	h ū̵\ s p r ε͟i e
+17.0.098	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.098	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.099	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.099	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.099	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.099	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.100	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.100	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.101	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.101	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.101	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.102	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.102	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.102	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.102	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.102	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.103	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.103	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.103	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.103	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.103	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.103	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.103	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.104	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.104	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.105	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.105	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.105	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.105	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.106	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.106	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.107	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.107	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.108	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.108	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.109	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.109	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.110	Norwegian	Germanic	tʰ'ō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.110	Norwegian	Germanic	tʰō̭r	tʰō̭r	6	tʰ ō̭ r - - - - - - - - - - - - -
+17.0.111	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.111	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.112	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.112	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.113	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.113	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.113	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.113	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.114	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.114	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.114	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.114	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.115	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.115	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.115	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.116	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.116	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.117	Norwegian	Germanic	tʰ'ō̭\rniŋ	tʰō̭\rniŋ	6	tʰ ō̭\ r - n i - ŋ - - - - - - - -
+17.0.117	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.117	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.117	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.117	Norwegian	Germanic	tʰō̭\rniŋ	tʰō̭\rniŋ	6	tʰ ō̭\ r - n i - ŋ - - - - - - - -
+17.0.117	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.118	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.118	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.118	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.118	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.119	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.120	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.120	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.121	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.121	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.122	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.122	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.123	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.123	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰ'ō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.124	Norwegian	Germanic	tʰ'ō̭\redŋ̄n	tʰō̭\redŋ̄n	6	tʰ ō̭\ r - - e d ŋ̄n - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.124	Norwegian	Germanic	tʰō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.125	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.125	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.125	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.126	Norwegian	Germanic	tʰō̭\rø	tʰō̭\rø	6	tʰ ō̭\ r - - ø - - - - - - - - - -
+17.0.126	Norwegian	Germanic	tʰ'ō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.126	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.126	Norwegian	Germanic	tʰō̭\rε	tʰō̭\rε	6	tʰ ō̭\ r - - ε - - - - - - - - - -
+17.0.127	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.127	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.127	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.127	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.127	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.128	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.128	Norwegian	Germanic	tʰ'ō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.128	Norwegian	Germanic	tʰ'ō̭\redŋ̄n	tʰō̭\redŋ̄n	6	tʰ ō̭\ r - - e d ŋ̄n - - - - - - - -
+17.0.129	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.129	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.129	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.129	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.129	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.129	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.130	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.130	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.130	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.130	Norwegian	Germanic	tʰ'ō̭\reskre̬l̄	tʰō̭\reskre̬l̄	6	tʰ ō̭\ r - - e - - - s k r e̬ - - l̄
+17.0.130	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.130	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.130	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.130	Norwegian	Germanic	tʰ'ō̭\reskral̄	tʰō̭\reskral̄	6	tʰ ō̭\ r - - e - - - s k r a - - l̄
+17.0.131	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.131	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.131	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.131	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.132	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.132	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.132	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.133	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.133	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.134	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.134	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.135	Norwegian	Germanic	tʰ'ō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.135	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.135	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.136	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.136	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.137	Norwegian	Germanic	tʰō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.137	Norwegian	Germanic	tʰ'ō̭\rebrākʰ	tʰō̭\rebrākʰ	6	tʰ ō̭\ r - - e - - - - b r ā kʰ - -
+17.0.137	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.137	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.137	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.138	Norwegian	Germanic	tʰ'ō̭\revēr	tʰō̭\revēr	6	tʰ ō̭\ r - - e - - - - v - ē - - r
+17.0.138	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.139	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.139	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.140	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.140	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.141	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.141	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.142	Norwegian	Germanic	tʰō\rna	tʰō\rna	6	tʰ ō\ r - n a - - - - - - - - - -
+17.0.142	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.143	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.143	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.144	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.144	Norwegian	Germanic	tʰō̭\ra	tʰō̭\ra	6	tʰ ō̭\ r - - a - - - - - - - - - -
+17.0.145	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.145	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.146	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.146	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.147	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.147	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.148	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.148	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.149	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.149	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.150	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.150	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.151	Norwegian	Germanic	tʰō̭\rne	tʰō̭\rne	6	tʰ ō̭\ r - n e - - - - - - - - - -
+17.0.151	Norwegian	Germanic	tʰ'ō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.151	Norwegian	Germanic	tʰ'ō̭\rre	tʰō̭\rre	6	tʰ ō̭\ rr - - e - - - - - - - - - -
+17.0.151	Norwegian	Germanic	tʰō̭\re	tʰō̭\re	6	tʰ ō̭\ r - - e - - - - - - - - - -
+17.0.152	Norwegian	Germanic	"tʰ'o̭rden "	tʰo̭rden	6	tʰ o̭ r d - e - n - - - - - - - -
+17.0.152	Norwegian	Germanic	"tʰ'o̭\rden "	tʰo̭\rden	6	tʰ o̭\ r d - e - n - - - - - - - -
+18.0.001	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.002	Dutch	Germanic	ɣrΩmǝl	ɣrΩmǝl	46	ɣ r Ω m ǝ l - - - -
+18.0.003	Dutch	Germanic	'ɔnwer	ɔnwer	68	ɔ n w e r - - - -
+18.0.004	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.005	Dutch	Germanic	'ɔnwer	ɔnwer	68	ɔ n w e r - - - -
+18.0.005	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.006	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.007	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.008	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.009	Dutch	Germanic	d'Ωndǝ	dΩndǝ	5	d Ω - n d ǝ - - - - - - - - -
+18.0.010	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.011	Dutch	Germanic	ɣrΩmǝl	ɣrΩmǝl	46	ɣ r Ω m ǝ l - - - -
+18.0.012	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.013	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.014	Dutch	Germanic	'ɔnwerslax	ɔnwerslax	68	ɔ n w e r s l a x
+18.0.015	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.016	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.017	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.018	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.019	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.020	Dutch	Germanic	h'Ωmǝl	hΩmǝl	46	h - Ω m ǝ l - - - -
+18.0.021	Dutch	Germanic	h'Ωmǝl	hΩmǝl	46	h - Ω m ǝ l - - - -
+18.0.021	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.022	Dutch	Germanic	h'Ωmǝlʃlā.x	hΩmǝlʃlāx	46	h - Ω m ǝ l ʃ l ā x
+18.0.022	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.022	Dutch	Germanic	h'Ωmǝl	hΩmǝl	46	h - Ω m ǝ l - - - -
+18.0.023	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.201	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.202	Dutch	Germanic	d'o̬ndrǝ	do̬ndrǝ	5	d o̬ - n d - - r ǝ - - - - - -
+18.0.203	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.204	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.205	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.206	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.207	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.208	Dutch	Germanic	d'Ωner	dΩner	5	d Ω - n - e - r - - - - - - -
+18.0.208	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.209	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.0.210	Dutch	Germanic	d'Ωndǝr	dΩndǝr	5	d Ω - n d ǝ - r - - - - - - -
+18.1.101	W. Frisian	Germanic	t'Ωŋǝr	tΩŋǝr	5	t Ω - ŋ - ǝ - r - - - - - - -
+18.1.101	W. Frisian	Germanic	NA	NA	70	NA
+18.1.102	W. Frisian	Germanic	t'Ωŋǝr	tΩŋǝr	5	t Ω - ŋ - ǝ - r - - - - - - -
+18.1.102	W. Frisian	Germanic	NA	NA	70	NA
+18.1.103	W. Frisian	Germanic	t'Ωŋǝr	tΩŋǝr	5	t Ω - ŋ - ǝ - r - - - - - - -
+18.1.103	W. Frisian	Germanic	NA	NA	70	NA
+18.1.104	W. Frisian	Germanic	t'Ωŋǝr	tΩŋǝr	5	t Ω - ŋ - ǝ - r - - - - - - -
+18.1.104	W. Frisian	Germanic	NA	NA	70	NA
+18.1.105	W. Frisian	Germanic	tūǝr	tūǝr	5	t ū - - - ǝ - r - - - - - - -
+18.1.105	W. Frisian	Germanic	NA	NA	70	NA
+18.1.201	N. Frisian	Germanic	t'ε͟ǝnǝ	tε͟ǝnǝ	5	t ε͟ǝ - n - ǝ - - - - - - - - -
+18.1.201	N. Frisian	Germanic	NA	NA	70	NA
+18.1.202	N. Frisian	Germanic	NA	NA	70	NA
+18.1.202	N. Frisian	Germanic	t'ɔ̄nǝR	tɔ̄nǝR	5	t ɔ̄ - n - ǝ - R - - - - - - -
+18.1.203	N. Frisian	Germanic	NA	NA	70	NA
+18.1.203	N. Frisian	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+18.1.204	N. Frisian	Germanic	NA	NA	70	NA
+18.1.204	N. Frisian	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+18.1.205	E. Frisian	Germanic	NA	NA	70	NA
+19.0.001	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.002	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.003	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.004	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.005	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.006	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.007	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.008	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.009	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.010	Polish	Slavic	gʒm'ɔta	gʒmɔta	71	g ʒ - m ɔ t a
+19.0.011	Polish	Slavic	gʒm'ɔta	gʒmɔta	71	g ʒ - m ɔ t a
+19.0.012	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.013	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.014	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.015	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.016	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.017	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.018	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.019	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.020	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.021	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.022	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.023	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.024	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.025	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.026	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.027	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.028	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.029	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.030	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.031	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.032	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+19.0.033	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.034	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.035	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.036	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.037	Polish	Slavic	gʒmɔt	gʒmɔt	71	g ʒ - m ɔ t -
+19.0.038	Polish	Slavic	ʒgmɔt	ʒgmɔt	71	- ʒ g m ɔ t -
+20.0.001	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.002	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.003	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.004	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.005	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.006	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.007	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.008	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.009	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.010	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.011	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.012	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.013	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.013	Portuguese	Romance	tr̄'ĩku	tr̄ĩku	21	t r̄ - - - ĩ k u
+20.0.014	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.015	Portuguese	Romance	trã̭͟w	trã̭͟w	21	t r - - - - - ã̭͟w
+20.0.016	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.017	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.018	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.019	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.020	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.021	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.022	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.023	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.024	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.025	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.026	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.027	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.028	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.029	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.030	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.031	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.032	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.033	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.034	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.035	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.036	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.037	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.038	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.039	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.040	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.041	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.042	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.043	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.044	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.045	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.046	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.047	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.048	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.049	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.051	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.052	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.053	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+20.0.054	Portuguese	Romance	truv'ã̭͟w	truvã̭͟w	21	t r - u - - v ã̭͟w
+21.0.001	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.002	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.003	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.004	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.005	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.006	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.007	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.008	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.009	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.010	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.011	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.012	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.014	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.015	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.016	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.017	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.018	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.019	German	Germanic	ǝt d'œndǝRt	ǝtdœndǝRt	48	ǝ t - d œ n d ǝ R - t
+21.0.020	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.021	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.022	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+21.0.023	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.024	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.025	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.026	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.027	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.028	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.029	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+21.0.030	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.031	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+21.0.032	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+21.0.034	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.035	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.036	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.037	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.038	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.039	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.040	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.041	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.042	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.043	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+21.0.044	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.045	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.046	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.048	L. Sorbian	Slavic	p'ɔgr’im	pɔgr’im	17	p ɔ g r’ i m - - - - -
+21.0.049	H. Sorbian	Slavic	r’'iman’ɔ	r’iman’ɔ	17	- - - r’ i m a n’ - - ɔ
+21.0.050	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.051	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.052	German	Germanic	d'ɔnǝRʃlag	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.053	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.054	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.057	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.058	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.059	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.060	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.061	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.062	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+21.0.063	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.004	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.006	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.007	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.008	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.009	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.010	German	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+22.0.011	German	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+22.0.012	German	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+22.0.013	German	Germanic	d'ɔnǝRʃlag	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.013	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.016	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.017	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.018	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.019	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.020	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.021	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.022	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.023	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.024	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.025	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.026	German	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+22.0.027	German	Germanic	gR'umǝl	gRumǝl	46	g R u m ǝ l - - - -
+22.0.028	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.029	German	Germanic	d'ɔnǝRʃlag	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.030	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.031	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.032	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.033	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.034	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.035	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.036	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.037	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.038	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.039	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.040	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.041	German	Germanic	h'umǝl	humǝl	46	h - u m ǝ l - - - -
+22.0.042	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.043	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.044	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.045	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.046	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.047	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.048	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.049	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.050	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.051	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.052	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.053	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.054	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.055	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.056	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.057	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.058	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.059	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.060	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.061	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.062	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.063	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.064	German	Germanic	d'ɔnǝRt	dɔnǝRt	5	d ɔ - n - ǝ - R - t - - - - -
+22.0.065	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.066	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.067	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.068	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.069	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.070	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.071	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.072	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.073	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.074	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.075	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.076	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.077	German	Germanic	d'ɔnǝRt	dɔnǝRt	5	d ɔ - n - ǝ - R - t - - - - -
+22.0.078	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.079	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.080	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.081	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.082	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.083	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.084	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.085	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.086	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.087	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.088	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.089	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.090	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.091	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.092	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.093	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.094	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.095	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.096	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.097	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.098	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.099	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.100	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.101	German	Germanic	d'ɔnǝRt	dɔnǝRt	5	d ɔ - n - ǝ - R - t - - - - -
+22.0.102	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.103	German	Germanic	d'o͟eRʃlax	do͟eRʃlax	5	d o͟e - - - - - R - - - ʃ l a x
+22.0.104	German	Germanic	gR'ūmǝn	gRūmǝn	46	g R ū m ǝ n - - - -
+22.0.105	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.106	German	Germanic	ǝs d'undǝRǝt	dundǝRǝt	5	d u - n d ǝ - R ǝ t - - - - -
+22.0.107	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.108	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.109	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.110	German	Germanic	ǝs d'ɔ͟uRǝt	dɔ͟uRǝt	5	d ɔ͟u - - - - - R ǝ t - - - - -
+22.0.111	German	Germanic	ǝs d'undǝRǝt	dundǝRǝt	5	d u - n d ǝ - R ǝ t - - - - -
+22.0.112	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.113	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.114	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.115	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.116	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.117	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.118	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.119	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.120	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.121	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.122	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.123	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.124	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.125	German	Germanic	ǝs d'ɔ̄Rd	dɔ̄Rd	5	d ɔ̄ - - - - - R - d - - - - -
+22.0.126	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.127	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.128	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.129	German	Germanic	ǝs d'undǝRǝt	dundǝRǝt	5	d u - n d ǝ - R ǝ t - - - - -
+22.0.130	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.131	German	Germanic	d'ɔndǝR	dɔndǝR	5	d ɔ - n d ǝ - R - - - - - - -
+22.0.132	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.133	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.134	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.135	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.136	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+22.0.211	German	Germanic	d'ɔnǝR	dɔnǝR	5	d ɔ - n - ǝ - R - - - - - - -
+23.0.001	Romanian	Romance	t'unit	tunit	5	t u - n - i - - - t - - - - -
+23.0.002	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.003	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.004	Romanian	Romance	t'un’etu̯	tun’etu̯	5	t u - n’ - e - - - t u̯ - - - -
+23.0.006	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.007	Romanian	Romance	tunu̯	tunu̯	5	t u - n - u̯ - - - - - - - - -
+23.0.008	Romanian	Romance	t'un’etu̯	tun’etu̯	5	t u - n’ - e - - - t u̯ - - - -
+23.0.009	Romanian	Romance	t'un’etu̯	tun’etu̯	5	t u - n’ - e - - - t u̯ - - - -
+23.0.010	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.011	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.012	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.013	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.014	Romanian	Romance	h'uj͟it	huj͟it	73	- - h - u j͟i t - - -
+23.0.014	Romanian	Romance	t'unit	tunit	5	t u - n - i - - - t - - - - -
+23.0.015	Romanian	Romance	t'un’it	tun’it	5	t u - n’ - i - - - t - - - - -
+23.0.016	Romanian	Romance	t'un’it	tun’it	5	t u - n’ - i - - - t - - - - -
+23.0.017	Romanian	Romance	t'unit	tunit	5	t u - n - i - - - t - - - - -
+23.0.018	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.019	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.019	Romanian	Romance	det'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.020	Romanian	Romance	durǝj'͟it	durǝj͟it	73	d u r - ǝ j͟i t - - -
+23.0.021	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.022	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.023	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.024	Romanian	Romance	t'un’it	tun’it	5	t u - n’ - i - - - t - - - - -
+23.0.025	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.026	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.027	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.028	Romanian	Romance	durduj'͟it	durduj͟it	73	d u r d u j͟i t - - -
+23.0.029	Romanian	Romance	durduj'͟it	durduj͟it	73	d u r d u j͟i t - - -
+23.0.030	Romanian	Romance	tun	tun	21	t - - u n - - -
+23.0.031	Romanian	Romance	durduj'͟it	durduj͟it	73	d u r d u j͟i t - - -
+23.0.032	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.033	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.034	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.035	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.036	Romanian	Romance	t'unit	tunit	5	t u - n - i - - - t - - - - -
+23.0.037	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.038	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.039	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.040	Romanian	Romance	h'uj͟it	huj͟it	73	- - h - u j͟i t - - -
+23.0.041	Romanian	Romance	durǝj'͟it	durǝj͟it	73	d u r - ǝ j͟i t - - -
+23.0.046	Romanian	Romance	t'un’et	tun’et	5	t u - n’ - e - - - t - - - - -
+23.0.047	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.048	Romanian	Romance	duduj'͟it	duduj͟it	73	d u - d u j͟i t - - -
+23.0.049	Romanian	Romance	duduj'͟alǝ	duduj͟alǝ	73	d u - d u j͟a l - - ǝ
+23.0.050	Romanian	Romance	durduj'͟alǝ	durduj͟alǝ	73	d u r d u j͟a l - - ǝ
+23.0.051	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.052	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.053	Romanian	Romance	durduj'͟alǝ	durduj͟alǝ	73	d u r d u j͟a l - - ǝ
+23.0.053	Romanian	Romance	durduj͟it'urǝ	durduj͟iturǝ	73	d u r d u j͟i t u r ǝ
+23.0.054	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.055	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.056	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.057	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.058	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.059	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.060	Romanian	Romance	t'unit	tunit	5	t u - n - i - - - t - - - - -
+23.0.061	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.062	Romanian	Romance	ʒ'emet	ʒemet	75	ʒ e m e t
+23.0.064	Romanian	Romance	bubuj'͟it	bubuj͟it	73	b u - b u j͟i t - - -
+23.0.065	Romanian	Romance	bubuj'͟it	bubuj͟it	73	b u - b u j͟i t - - -
+23.0.066	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.067	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.068	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.069	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.070	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.071	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.072	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.073	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.074	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.075	Romanian	Romance	dudǝj'͟it	dudǝj͟it	73	d u - d ǝ j͟i t - - -
+23.0.076	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.077	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+23.0.101	Hungarian	Ugric	d'ōērgḙ̄ʃ	dōērgḙ̄ʃ	55	- - - d ōē r - - g ḙ̄ ʃ
+23.0.102	Hungarian	Ugric	m'endoergḙ̄ʃ	mendoergḙ̄ʃ	55	m e n d oe r - - g ḙ̄ ʃ
+23.0.103	Hungarian	Ugric	d'urḁgḁ̬s	durḁgḁ̬s	55	- - - d u r ḁ - g ḁ̬ s
+23.0.201	German	Germanic	d'ḁnǝr	dḁnǝr	5	d ḁ - n - ǝ - r - - - - - - -
+23.0.202	German	Germanic	tΩnr	tΩnr	5	t Ω - n - - - r - - - - - - -
+23.0.301	Croatian	Slavic	grom	grom	17	- - g r o m - - - - -
+23.0.401	Ukrainian	Slavic	ḫrɨm	ḫrɨm	17	- - ḫ r ɨ m - - - - -
+24.0.020	Swedish	Germanic	lacunae:	lacunae:	78	l a c u n a e:
+24.0.035	Swedish	Germanic	lacunae:	lacunae:	78	l a c u n a e:
+24.0.065	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.066	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.070	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.083	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.087	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.093	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.094	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.098	Swedish	Germanic	lacunae:	lacunae:	78	l a c u n a e:
+24.0.102	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.105	Swedish	Germanic	tūr	tūr	6	t ū r - - - - - - - - - - - - -
+24.0.191	Swedish	Germanic	lacunae:	lacunae:	78	l a c u n a e:
+24.8.003	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+24.8.003	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+24.8.004	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.004	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+24.8.005	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.005	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+24.8.007	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.007	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+24.8.009	Finnish	Finnic	p'itkænen	pitkænen	86	p - i t k - æ n e n
+24.8.019	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.201	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.203	Finnish	Finnic	h'erranvo͟ima	herranvo͟ima	25	h e rr a n v o͟i m a
+24.8.203	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+24.8.204	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+25.1.101	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.102	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.103	German	Germanic	tΩnḓǝr	tΩnḓǝr	5	t Ω - n ḓ ǝ - r - - - - - - -
+25.1.104	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.105	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.105	German	Germanic	tΩnḓǝr	tΩnḓǝr	5	t Ω - n ḓ ǝ - r - - - - - - -
+25.1.106	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.107	German	Germanic	tΩnnǝr	tΩnnǝr	5	t Ω - nn - ǝ - r - - - - - - -
+25.1.108	German	Germanic	εz̯ tonrǝt	εz̯tonrǝt	48	ε - z̯ t o n - - r ǝ t
+25.1.109	German	Germanic	tΩnḓǝr	tΩnḓǝr	5	t Ω - n ḓ ǝ - r - - - - - - -
+25.1.110	German	Germanic	tΩnḓǝr	tΩnḓǝr	5	t Ω - n ḓ ǝ - r - - - - - - -
+25.2.201	Franco-Provençal	Romance	tǝn'erɔ	tǝnerɔ	5	t ǝ - n - e - r ɔ - - - - - -
+25.2.202	Franco-Provençal	Romance	tǝn'erɔ	tǝnerɔ	5	t ǝ - n - e - r ɔ - - - - - -
+25.2.203	Franco-Provençal	Romance	tǝn'erɔ	tǝnerɔ	5	t ǝ - n - e - r ɔ - - - - - -
+25.2.204	Franco-Provençal	Romance	tǝn'ε̄vro	tǝnε̄vro	5	t ǝ - n - ε̄ v r o - - - - - -
+25.2.205	Franco-Provençal	Romance	tǝn'ε̄vro	tǝnε̄vro	5	t ǝ - n - ε̄ v r o - - - - - -
+25.2.206	Franco-Provençal	Romance	tnar	tnar	5	t - - n - a - r - - - - - - -
+25.2.207	Oïl	Romance	tun'ε̄r	tunε̄r	5	t u - n - ε̄ - r - - - - - - -
+25.2.208	Franco-Provençal	Romance	tɔnεr	tɔnεr	5	t ɔ - n - ε - r - - - - - - -
+25.4.401	Rhaeto-Romanian	Romance	tun'ā	tunā	5	t u - n - ā - - - - - - - - -
+25.4.402	Rhaeto-Romanian	Romance	tuŋ	tuŋ	5	t u - ŋ - - - - - - - - - - -
+25.4.403	Rhaeto-Romanian	Romance	tun	tun	21	t - - u n - - -
+26.0.001	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.001	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.002	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.002	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.003	Czech	Slavic	ř'īmān’ī	řīmān’ī	17	- - - ř ī m ā n’ - - ī
+26.0.003	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.004	Czech	Slavic	ř'īmān’ī	řīmān’ī	17	- - - ř ī m ā n’ - - ī
+26.0.004	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.005	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.005	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.006	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.006	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.007	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.007	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.008	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.008	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.009	Czech	Slavic	ř'īmān’ī	řīmān’ī	17	- - - ř ī m ā n’ - - ī
+26.0.009	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.010	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.010	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.011	Czech	Slavic	ř'īmān’ī	řīmān’ī	17	- - - ř ī m ā n’ - - ī
+26.0.011	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.0.012	Czech	Slavic	řmn’'en’ī	řmn’en’ī	81	- - ř m n’ e n’ ī
+26.0.012	Czech	Slavic	ḫrom	ḫrom	17	- - ḫ r o m - - - - -
+26.1.101	Slovak	Slavic	ḫ'r̥men’i͟e	ḫr̥men’i͟e	17	- - ḫ r̥ - m e n’ - - i͟e
+26.1.102	Slovak	Slavic	ḫ'r̥men’i͟e	ḫr̥men’i͟e	17	- - ḫ r̥ - m e n’ - - i͟e
+26.1.103	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.104	Slovak	Slavic	ḫ'ermota	ḫermota	11	g ǝ r - m ε ʃ - - - - - - -
+26.1.105	Slovak	Slavic	ḫ'r̥men’i͟e	ḫr̥men’i͟e	17	- - ḫ r̥ - m e n’ - - i͟e
+26.1.106	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.107	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.108	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.108	Slovak	Slavic	ḫ'r̥men’i͟e	ḫr̥men’i͟e	17	- - ḫ r̥ - m e n’ - - i͟e
+26.1.109	Slovak	Slavic	ḫr'om	ḫrom	17	- - ḫ r o m - - - - -
+26.1.110	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.111	Slovak	Slavic	ḫ'ermot	ḫermot	11	g ǝ r - m u ʃ - - - - - - -
+26.1.111	Slovak	Slavic	ḫ'r̥mavit͟sa	ḫr̥mavit͟sa	11	ḫ - r̥ - m - - - - a v i t͟s a
+26.1.112	Slovak	Slavic	ḫr'imen’e	ḫrimen’e	17	- - ḫ r i m e n’ - - e
+26.1.201	Ukrainian	Slavic	p'erun	perun	82	p e r - u n - - -
+26.1.202	Hungarian	Ugric	ēgzørgīʃ	ēgzørgīʃ	55	- ē g z ø r - - g ī ʃ
+27.0.001	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+27.0.002	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+27.0.003	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+27.0.004	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+27.0.005	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+27.0.006	Turkish	Turkic	g'øk gyryltysy	gøkgyryltysy	83	g ø k g y - r y l t y s y - - -
+28.0.001	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.002	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.003	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.004	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.005	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.006	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.007	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.008	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.009	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.010	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.011	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.012	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.013	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.014	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.015	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.016	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.017	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.018	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.019	Russian	Slavic	tr’'esk	tr’esk	15	t r’ e s - k
+28.0.019	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.020	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.021	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.022	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.023	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.024	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.025	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.026	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.027	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.028	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.029	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.030	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.031	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.032	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.033	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.034	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.035	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.036	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.037	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.038	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.039	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.040	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.041	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.042	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.043	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.044	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.045	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.046	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.047	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.048	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.049	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.050	Russian	Slavic	ud'Ar	udAr	84	u d A r
+28.0.050	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.051	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.052	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.053	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.054	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.055	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.056	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.057	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.058	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.059	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.060	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.061	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.062	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.063	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.064	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.065	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.066	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.067	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.068	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.069	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.070	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.071	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.072	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.073	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.074	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.075	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.075	Russian	Slavic	gr'ɔmuʃkǝ	grɔmuʃkǝ	17	- - g r ɔ m u - ʃ k ǝ
+28.0.076	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.077	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.0.078	Russian	Slavic	gr'ɔm	grɔm	17	- - g r ɔ m - - - - -
+28.1.101	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.102	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.103	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.104	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.105	Belorussian	Slavic	ɣrɨ͕m' 'it͟s'	ɣrɨ͕mit͟s	17	- - ɣ r ɨ͕ m i - - t͟s -
+28.1.106	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.107	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.108	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.109	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.110	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.111	Belorussian	Slavic	ɣrɨ͕m'ɔtɨ͕	ɣrɨ͕mɔtɨ͕	17	- - ɣ r ɨ͕ m ɔ - - t ɨ͕
+28.1.112	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.113	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.114	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.115	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.116	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.117	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.118	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.119	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.120	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.121	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.122	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.123	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.124	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.125	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.126	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.127	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.128	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.1.129	Belorussian	Slavic	ɣr'ɔm	ɣrɔm	17	- - ɣ r ɔ m - - - - -
+28.2.203	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.204	Ukrainian	Slavic	p'arun wd'Ari̷w	parun	82	p a r - u n - - -
+28.2.204	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.205	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.206	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.207	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.208	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.209	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.210	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.211	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.212	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.213	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.214	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.215	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.216	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.217	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.218	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.219	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.220	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.221	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.222	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.223	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.224	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.225	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.226	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.227	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.228	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.229	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.230	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.231	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.232	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.233	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.234	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.235	Ukrainian	Slavic	p'εri̷m bjε	pεri̷mbjε	17	p ε - r i̷ m - - - b jε
+28.2.235	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.236	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.237	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.238	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.239	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.240	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.241	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.242	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.243	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.244	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.245	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.246	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.247	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.248	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.249	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.250	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.250	Ukrainian	Slavic	ɣri̷m'ɔti̷	ɣri̷mɔti̷	17	- - ɣ r i̷ m ɔ - - t i̷
+28.2.251	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.252	Ukrainian	Slavic	ɣri̷m'ɔti̷	ɣri̷mɔti̷	17	- - ɣ r i̷ m ɔ - - t i̷
+28.2.252	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.253	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.254	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.255	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.256	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.257	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.258	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.259	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.260	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.261	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.262	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.263	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.264	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.265	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.266	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.267	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.2.268	Ukrainian	Slavic	ɣr’im	ɣr’im	17	- - ɣ r’ i m - - - - -
+28.3.301	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.301	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.301	Estonian	Finnic	k'ɇ͟ŭek̆ke	kɇ͟ŭek̆ke	87	k ɇ͟ŭ - e k̆k e
+28.3.301	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.302	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.302	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.302	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.303	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.303	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.304	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.304	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.305	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.305	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.306	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.306	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.307	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.307	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.307	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.307	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.308	Estonian	Finnic	'æ͟iækkene	æ͟iækkene	86	- æ͟i æ k k - e n e -
+28.3.308	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.308	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.309	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.309	Estonian	Finnic	'æ͟iukkæ͟ine	æ͟iukkæ͟ine	86	- æ͟i u k k - æ͟i n e -
+28.3.309	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.310	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.310	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.310	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.311	Estonian	Finnic	'isu	isu	24	i s u
+28.3.311	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.312	Estonian	Finnic	k'ɇve	kɇve	87	k ɇ v e - -
+28.3.312	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.313	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.313	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.313	Estonian	Finnic	k'ɇ͟ŭek̆ke	kɇ͟ŭek̆ke	87	k ɇ͟ŭ - e k̆k e
+28.3.313	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.314	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.314	Estonian	Finnic	k'ɇ͟ŭek̆ke	kɇ͟ŭek̆ke	87	k ɇ͟ŭ - e k̆k e
+28.3.314	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.315	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.315	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.315	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.316	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.316	Estonian	Finnic	k'ɇ͟ŭek̆ke	kɇ͟ŭek̆ke	87	k ɇ͟ŭ - e k̆k e
+28.3.316	Estonian	Finnic	k'ɇ͟ŭe	kɇ͟ŭe	87	k ɇ͟ŭ - e - -
+28.3.316	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.316	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.317	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.317	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.318	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.318	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.318	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.319	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.319	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.319	Estonian	Finnic	p'ikken	pikken	86	p - i k k - e n - -
+28.3.319	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.319	Estonian	Finnic	v'anemb̯	vanemb̯	90	v a n e m b̯
+28.3.320	Estonian	Finnic	p'ikken	pikken	86	p - i k k - e n - -
+28.3.320	Estonian	Finnic	v'anemb̯	vanemb̯	90	v a n e m b̯
+28.3.321	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.321	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.321	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.322	Estonian	Finnic	kɇ͟u	kɇ͟u	87	k ɇ͟u - - - -
+28.3.322	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.323	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.323	Estonian	Finnic	v'anemb̯	vanemb̯	90	v a n e m b̯
+28.3.324	Estonian	Finnic	v'anemb̯	vanemb̯	90	v a n e m b̯
+28.3.324	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.325	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.326	Estonian	Finnic	'æ͟ikke(ne)	æ͟ikkene	86	- æ͟i - k k - e n e -
+28.3.326	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.327	Estonian	Finnic	p'ik’se	pik’se	86	p - i - k’ s e - - -
+28.3.327	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.328	Estonian	Finnic	p'ik’se	pik’se	86	p - i - k’ s e - - -
+28.3.328	Estonian	Finnic	p'ikne	pikne	86	p - i - k - - n e -
+28.3.328	Estonian	Finnic	v'anemb̯	vanemb̯	90	v a n e m b̯
+28.3.328	Estonian	Finnic	p'ikjæne	pikjæne	86	p - i - k - jæ n e -
+28.3.329	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.329	Karelian	Finnic	'ukonilma	ukonilma	23	u k o - - n - i l - m a
+28.3.330	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.331	Karelian	Finnic	'ukonjyrine	ukonjyrine	23	u k o - - n j y r i n e
+28.3.332	Karelian	Finnic	'ukkosenjyry	ukkosenjyry	23	u kk o s e n j y r y - -
+28.3.333	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.334	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.335	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.336	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.337	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.338	Karelian	Finnic	gr'omu	gromu	17	- - g r o m u - - - -
+28.3.339	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.340	Karelian	Finnic	p'yhæl’l’æn j'yry	pyhæl’l’ænjyry	1091	p y h æ l’l’ æ n j y r y
+28.3.340	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.341	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.342	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.343	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.344	Karelian	Finnic	p'yhæl’l’æn j'yry	pyhæl’l’ænjyry	1091	p y h æ l’l’ æ n j y r y
+28.3.345	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.346	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.347	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.348	Karelian	Finnic	j'yry	jyry	91	j y r y - -
+28.3.349	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.350	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.351	Karelian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.352	Karelian	Finnic	groz	groz	17	- - g r o z - - - - -
+28.3.353	Veps	Finnic	g’'umalang’yru	g’umalang’yru	1025	g’ u m a l a n g’ y r u
+28.3.354	Veps	Finnic	g’'umalang’yru	g’umalang’yru	1025	g’ u m a l a n g’ y r u
+28.3.355	Veps	Finnic	j'umo͟u	jumo͟u	93	j u m o͟u
+28.3.356	Veps	Finnic	j'yry	jyry	91	j y r y - -
+28.3.357	Veps	Finnic	g’'umalang’yru	g’umalang’yru	1025	g’ u m a l a n g’ y r u
+28.3.358	Veps	Finnic	j'yry	jyry	91	j y r y - -
+28.3.359	Finnish	Finnic	'ukonjyrinæ	ukonjyrinæ	23	u k o - - n j y r i n æ
+28.3.360	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+28.3.361	Finnish	Finnic	'ukko	ukko	23	u kk o - - - - - - - - -
+28.3.361	Finnish	Finnic	'ukkonen	ukkonen	23	u kk o - - n - - - e n -
+28.3.363	Finnish	Finnic	'ukonjyrinæ	ukonjyrinæ	23	u k o - - n j y r i n æ
+28.3.364	Ingrian	Finnic	j'yrisø̄	jyrisø̄	91	j y r i s ø̄
+28.3.365	Ingrian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.366	Ingrian	Finnic	'ukonjyry	ukonjyry	23	u k o - - n j y r y - -
+28.3.367	Votic	Finnic	gr'omu	gromu	17	- - g r o m u - - - -
+28.3.368	Votic	Finnic	j'yry	jyry	91	j y r y - -
+28.3.369	Livonian	Finnic	b'orātǝmi	borātǝmi	94	b o r ā t ǝ m i
+28.3.370	Livonian	Finnic	b'orātǝmi	borātǝmi	94	b o r ā t ǝ m i
+28.4.401	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.402	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.403	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.403	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.404	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.404	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.405	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.405	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.405	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.406	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.406	Lituanian	Baltic	ʒ'ā:͟ibAs	ʒā:͟ibAs	1097	ʒ ā:͟i b A s
+28.4.407	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.407	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.407	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.408	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.409	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.410	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.411	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.412	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.413	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.414	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.415	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.416	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.417	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.418	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.419	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.420	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.420	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.421	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.421	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.422	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.423	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.423	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.424	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.424	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.424	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.425	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.425	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.426	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.426	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.426	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.427	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.427	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.427	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.427	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.428	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.428	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.429	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.429	Lituanian	Baltic	gr’a͟us’t’'in’is	gr’a͟us’t’in’is	96	g r’ a͟u s’ t’ i n’ i s
+28.4.429	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.429	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.430	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.430	Lituanian	Baltic	gr’'a͟u.zmAs	gr’a͟u.zmAs	96	g r’ a͟u. z - - m A s
+28.4.431	Lituanian	Baltic	gr’'a͟u.zmAs	gr’a͟u.zmAs	96	g r’ a͟u. z - - m A s
+28.4.432	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.433	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.434	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.435	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.435	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.436	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.437	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.438	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.439	Lituanian	Baltic	p’εrk'ū:n’ija	p’εrkū:n’ija	82	p’ ε r k ū: n’ i - ja
+28.4.439	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.439	Lituanian	Baltic	p’εrk'ū:nAs	p’εrkū:nAs	82	p’ ε r k ū: n A s -
+28.4.440	Lituanian	Baltic	p’εr'ū:nAs	p’εrū:nAs	82	p’ ε r - ū: n A s -
+28.4.441	Lituanian	Baltic	gr’'a͟u. smAs	gr’a͟u.smAs	96	g r’ a͟u. s - - m A s
+28.4.442	Lituanian	Baltic	gra͟udul’'ī.s	gra͟udul’ī.s	96	g r a͟u - d u l’ ī. s
+28.4.451	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.452	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.453	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.453	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.454	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.455	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.455	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.456	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.456	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.457	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.458	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.459	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.459	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.460	Latvian	Baltic	p'ε̄:rku͟ɔns	pε̄:rku͟ɔns	82	p ε̄: r k u͟ɔ n - s -
+28.4.461	Latvian	Baltic	p'ε̄:rku͟ɔns	pε̄:rku͟ɔns	82	p ε̄: r k u͟ɔ n - s -
+28.4.462	Latvian	Baltic	p'ε̄△̩rkūnis	pε̄△̩rkūnis	82	p ε̄△̩ r k ū n i s -
+28.4.462	Latvian	Baltic	p'ε̄:rku͟ɔnis	pε̄:rku͟ɔnis	82	p ε̄: r k u͟ɔ n i s -
+28.4.462	Latvian	Baltic	p'ε̄:rku͟ɔns	pε̄:rku͟ɔns	82	p ε̄: r k u͟ɔ n - s -
+28.4.463	Latvian	Baltic	p'ε̄:rkūns	pε̄:rkūns	82	p ε̄: r k ū n - s -
+28.4.464	Latvian	Baltic	p'ε̄:rkūns	pε̄:rkūns	82	p ε̄: r k ū n - s -
+28.4.465	Latvian	Baltic	p'ε̄:rkūns	pε̄:rkūns	82	p ε̄: r k ū n - s -
+28.4.466	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.467	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.468	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.469	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.470	Latvian	Baltic	p'ε͟rku͟ɔns	pε͟rku͟ɔns	82	p ε͟r - k u͟ɔ n - s -
+28.4.470	Latvian	Baltic	p'ε͟r△̩ku͟ɔns	pε͟r△̩ku͟ɔns	82	p ε͟r△̩ - k u͟ɔ n - s -
+28.4.471	Latvian	Baltic	p'ε͟r△̩ku͟ɔns	pε͟r△̩ku͟ɔns	82	p ε͟r△̩ - k u͟ɔ n - s -
+28.4.471	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.472	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.473	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.474	Latvian	Baltic	p'ε̄:rku͟ɔns	pε̄:rku͟ɔns	82	p ε̄: r k u͟ɔ n - s -
+28.4.475	Latvian	Baltic	p'ε̄△̩rku͟ɔnis	pε̄△̩rku͟ɔnis	82	p ε̄△̩ r k u͟ɔ n i s -
+28.4.475	Latvian	Baltic	p'ε̄△̩rku͟ɔns	pε̄△̩rku͟ɔns	82	p ε̄△̩ r k u͟ɔ n - s -
+28.4.476	Latvian	Baltic	p'ε̄:rku͟ɔnis	pε̄:rku͟ɔnis	82	p ε̄: r k u͟ɔ n i s -
+28.4.477	Latvian	Baltic	p'ε̄:rkūns	pε̄:rkūns	82	p ε̄: r k ū n - s -
+28.4.477	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.478	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.479	Latvian	Baltic	p'ε̄△rka͟unis	pε̄△rka͟unis	82	p ε̄△ r k a͟u n i s -
+28.4.480	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.481	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.481	Latvian	Baltic	p'ε̄:rkūns	pε̄:rkūns	82	p ε̄: r k ū n - s -
+28.4.482	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.483	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.484	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.485	Latvian	Baltic	p'ε̄:rkūnis	pε̄:rkūnis	82	p ε̄: r k ū n i s -
+28.4.486	Latvian	Baltic	p'ε̄:rku͟ɔns	pε̄:rku͟ɔns	82	p ε̄: r k u͟ɔ n - s -
+28.4.486	Latvian	Baltic	p'ε͟rku͟ɔns	pε͟rku͟ɔns	82	p ε͟r - k u͟ɔ n - s -
+28.4.486	Latvian	Baltic	p'ε͟r:ku͟ɔns.	pε͟r:ku͟ɔns.	82	p ε͟r: - k u͟ɔ n - s. -
+28.5.501	Udmurt	Permic	gudɨrj'am	gudɨrjam	98	g u d ɨ r j a m
+28.5.502	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.503	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.504	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.505	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.506	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.507	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.508	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.509	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.510	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.511	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.512	Udmurt	Permic	gudɨrj'am	gudɨrjam	98	g u d ɨ r j a m
+28.5.513	Udmurt	Permic	gudɨrj'an	gudɨrjan	98	g u d ɨ r j a n
+28.5.514	Mari	Volgaic	kǝ͕dǝ͕rtǝ͕ʃ	kǝ͕dǝ͕rtǝ͕ʃ	99	k ǝ͕ d ǝ͕ r t ǝ͕ ʃ
+28.5.515	Mari	Volgaic	kǝ͕dǝ͕rtǝ͕ʃ	kǝ͕dǝ͕rtǝ͕ʃ	99	k ǝ͕ d ǝ͕ r t ǝ͕ ʃ
+28.5.516	Mari	Volgaic	kǝ͕dǝ͕rtǝ͕ʃ	kǝ͕dǝ͕rtǝ͕ʃ	99	k ǝ͕ d ǝ͕ r t ǝ͕ ʃ
+28.5.517	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.518	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.519	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.520	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.521	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.522	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.523	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.524	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.525	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.526	Mari	Volgaic	k'ydyrt͟ʃ'ø	kydyrt͟ʃø	99	k y d y r t͟ʃ ø
+28.5.527	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.528	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.529	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.530	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.531	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.532	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.533	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.534	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.535	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.536	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.537	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.538	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.539	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.540	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.541	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.542	Komi-Zyryan	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.543	Komi-Permyak	Permic	groz'a	groza	17	- - g r o z a - - - -
+28.5.543	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.544	Komi-Permyak	Permic	grom	grom	17	- - g r o m - - - - -
+28.5.544	Komi-Permyak	Permic	gɔm	gɔm	17	- - g - ɔ m - - - - -
+28.5.544	Komi-Permyak	Permic	groz'a	groza	17	- - g r o z a - - - -
+28.5.545	Komi-Permyak	Permic	groz'a	groza	17	- - g r o z a - - - -
+28.5.545	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.545	Komi-Permyak	Permic	grom	grom	17	- - g r o m - - - - -
+28.5.546	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.547	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.548	Komi-Permyak	Permic	groz'a	groza	17	- - g r o z a - - - -
+28.5.548	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.548	Komi-Permyak	Permic	grom	grom	17	- - g r o m - - - - -
+28.5.549	Komi-Permyak	Permic	grom	grom	17	- - g r o m - - - - -
+28.5.549	Komi-Permyak	Permic	gɨm	gɨm	17	- - g - ɨ m - - - - -
+28.5.549	Komi-Permyak	Permic	groz'a	groza	17	- - g r o z a - - - -
+28.5.550	Hungarian	Ugric	z'εngēʃ	zεngēʃ	55	- - - z - - ε n g ē ʃ
+28.5.551	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+28.5.552	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+28.5.553	Hungarian	Ugric	m'εɲ̄dørgēʃ	mεɲ̄dørgēʃ	55	m ε ɲ̄ d ø r - - g ē ʃ
+28.5.553	Hungarian	Ugric	dørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+28.5.554	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.555	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.556	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.557	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.558	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.559	Moksha-Mordvin	Volgaic	pokʃt’e	pokʃt’e	10103	p o k ʃ t’ e
+28.5.560	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.561	Moksha-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.562	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.563	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.564	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.565	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.566	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.567	Moksha-Mordvin	Volgaic	at’am	at’am	102	a t’ a m
+28.5.568	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.569	Erzya-Mordvin	Volgaic	br’igin’i	br’igin’i	104	b r’ i g i n’ i
+28.5.569	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.570	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.571	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.572	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.573	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.574	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.575	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.576	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.577	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.578	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.579	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.580	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.581	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.582	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.583	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.584	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.585	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.586	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.587	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.588	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.589	Erzya-Mordvin	Volgaic	pur’gin’e	pur’gin’e	82	p u r’ g i n’ e - -
+28.5.590	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.591	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.592	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.593	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.594	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.595	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.596	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.597	Udmurt	Permic	gudɨr'i	gudɨri	98	g u d ɨ r i - -
+28.5.690	Nenets	Samoyedic	mūnăt'aˀ	mūnătaˀ	105	m ū n ă t aˀ
+28.5.691	Nenets	Samoyedic	mūnot'aˀ	mūnotaˀ	105	m ū n o t aˀ
+28.5.692	Nenets	Samoyedic	mūnot'aˀ	mūnotaˀ	105	m ū n o t aˀ
+28.6.602	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.603	Romanian	Romance	tra	tra	21	t r - - - - - a
+28.6.604	Romanian	Romance	tra	tra	21	t r - - - - - a
+28.6.608	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.608	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.609	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.610	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.611	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.612	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.613	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.613	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.614	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.615	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.6.617	Romanian	Romance	tra	tra	21	t r - - - - - a
+28.6.618	Romanian	Romance	tr'ǝunet	trǝunet	21	t r - u m o - jA
+28.6.618	Romanian	Romance	t'unet	tunet	5	t u - n - e - - - t - - - - -
+28.7.701	Ossetic	Iranian	'arvǝ nærǝn	arvǝnærǝn	106	a r v ǝ n æ r ǝ n
+28.7.702	Ossetic	Iranian	arvi ǝær	arviǝær	106	a r v iǝ - æ r - -
+28.7.703	Tat	Iranian	gur'om	gurom	107	g u r o m
+28.7.703	Tat	Iranian	sokʰone'i	sokʰonei	108	s o kʰ o n e i
+28.8.801	Kabardian	Abkhazo-Adyge	wafa	wafa	109	w a f a - - -
+28.8.801	Kabardian	Abkhazo-Adyge	ɣwaɣwa	ɣwaɣwa	109	ɣw a ɣw a - - -
+28.8.802	Kabardian	Abkhazo-Adyge	wafa	wafa	109	w a f a - - -
+28.8.802	Kabardian	Abkhazo-Adyge	ɣwaɣwa	ɣwaɣwa	109	ɣw a ɣw a - - -
+28.8.803	Kabardian	Abkhazo-Adyge	ɣwaɣwa	ɣwaɣwa	109	ɣw a ɣw a - - -
+28.8.803	Kabardian	Abkhazo-Adyge	wafa	wafa	109	w a f a - - -
+28.8.804	Kabardian	Abkhazo-Adyge	ɣwaɣwa	ɣwaɣwa	109	ɣw a ɣw a - - -
+28.8.804	Kabardian	Abkhazo-Adyge	wafa	wafa	109	w a f a - - -
+28.8.805	Kabardian	Abkhazo-Adyge	ɣwaɣwa	ɣwaɣwa	109	ɣw a ɣw a - - -
+28.8.805	Kabardian	Abkhazo-Adyge	wafa	wafa	109	w a f a - - -
+28.8.806	Adyge	Abkhazo-Adyge	ʃǝbʎa	ʃǝbʎa	110	ʃ ǝ b ʎ a
+28.8.807	Adyge	Abkhazo-Adyge	ʃǝbʎa	ʃǝbʎa	110	ʃ ǝ b ʎ a
+28.8.808	Adyge	Abkhazo-Adyge	ʃǝbʎa	ʃǝbʎa	110	ʃ ǝ b ʎ a
+28.8.809	Adyge	Abkhazo-Adyge	ʃǝbʎa	ʃǝbʎa	110	ʃ ǝ b ʎ a
+28.8.810	Adyge	Abkhazo-Adyge	ʃǝbʎa	ʃǝbʎa	110	ʃ ǝ b ʎ a
+28.8.811	Chechen	Nakho-Dagestanian	stigal k͔ˀovk͔ˀar	stigalk͔ˀovk͔ˀar	111	s t i g a l k͔ˀ o v k͔ˀ a r
+28.8.812	Ingush	Nakho-Dagestanian	stigal k͔ˀovk͔ˀar	stigalk͔ˀovk͔ˀar	111	s t i g a l k͔ˀ o v k͔ˀ a r
+28.8.813	Ingush	Nakho-Dagestanian	di	di	112	d i
+28.8.814	Ingush	Nakho-Dagestanian	di	di	112	d i
+28.8.815	Godoberi	Nakho-Dagestanian	reʃ'in ɣuɣad'utʰa 'ida	reʃinɣuɣadutʰaida	113	r e ʃ - i n ɣ u ɣ a - d - - u tʰ a i d a
+28.8.816	Chamalal	Nakho-Dagestanian	h͔'ode	h͔ode	113	- - - - - - - - h͔ o - d e - - - - - - -
+28.8.817	Khwarshi	Nakho-Dagestanian	h͔uh͔ud'eru	h͔uh͔uderu	113	- - - - - - h͔ u h͔ u - d e r u - - - - -
+28.8.818	Botlikh	Nakho-Dagestanian	reʃ'in ɣuɣad'utʰa 'ida	reʃinɣuɣadutʰaida	113	r e ʃ - i n ɣ u ɣ a - d - - u tʰ a i d a
+28.8.819	Bakvalal	Nakho-Dagestanian	ɣ'odor	ɣodor	113	- - - - - - - - ɣ o - d o r - - - - - -
+28.8.820	Hinuq	Nakho-Dagestanian	h͔'uh͔u	h͔uh͔u	113	- - - - - - h͔ u h͔ u - - - - - - - - - -
+28.8.821	Tsez	Nakho-Dagestanian	h͔uh͔'udori	h͔uh͔udori	113	- - - - - - h͔ u h͔ u - d o r i - - - - -
+28.8.822	Andi	Nakho-Dagestanian	h͔'uh͔uj	h͔uh͔uj	113	- - - - - - h͔ u h͔ uj - - - - - - - - - -
+28.8.823	Karata	Nakho-Dagestanian	r'exin ɣ'omeri	rexinɣomeri	113	r e x - i n - - ɣ o m - e r i - - - - -
+28.8.824	Avar	Nakho-Dagestanian	ƶobɣuɣaj	zobɣuɣaj	113	z o - b - - ɣ u ɣ aj - - - - - - - - - -
+28.8.825	Akhvakh	Nakho-Dagestanian	ɣuɣ'ela	ɣuɣela	113	- - - - - - ɣ u ɣ e l - a - - - - - - -
+28.8.826	Tindi	Nakho-Dagestanian	ɣwàr	ɣwàr	109	ɣw à r - - - -
+28.8.827	Hunzib	Nakho-Dagestanian	has k͔ʰaʎʰe	hask͔ʰaʎʰe	114	h a s - k͔ʰ a ʎʰ e
+28.8.828	Bezhta	Nakho-Dagestanian	h'asa k͔ʰaʎʰe	hasak͔ʰaʎʰe	114	h a s a k͔ʰ a ʎʰ e
+28.8.829	Dargwa	Nakho-Dagestanian	k͔uk͔u	k͔uk͔u	118	k͔ u k͔ u
+28.8.830	Kumukh	Nakho-Dagestanian	k͔uw	k͔uw	118	k͔ u - w
+28.8.831	Archi	Nakho-Dagestanian	kʰ'utˀi	kʰutˀi	118	kʰ u tˀ i
+28.8.832	Tsakhur	Nakho-Dagestanian	h͔a̬w k͔'ā̬da̬k͔ʰa	h͔a̬wk͔ā̬da̬k͔ʰa	119	h͔ a̬ w k͔ ā̬ - d a̬ k͔ʰ a
+28.8.833	Tabassaran	Nakho-Dagestanian	ɣuɣrum'ar	ɣuɣrumar	109	ɣ u ɣr u m a r
+28.8.834	Aghul	Nakho-Dagestanian	ƶaw ruh͔'aja	zawruh͔aja	119	z a w r u - h͔ a j a
+28.8.835	Rutul	Nakho-Dagestanian	h͔al'ulh͔ara	h͔alulh͔ara	119	h͔ a - l u l h͔ a r a
+28.8.836	Lezgian	Nakho-Dagestanian	t͟sav'un van	t͟savunvan	120	t͟s a v u n v a n
+28.8.837	Abaza	Abkhazo-Adyge	dǝdra	dǝdra	110	d ǝ d r a
+28.8.838	Abaza	Abkhazo-Adyge	dǝdra	dǝdra	110	d ǝ d r a
+28.9.901	Chuvash	Turkic	As̬’'A	As̬’A	121	- - - A s̬’ - A - -
+28.9.902	Chuvash	Turkic	mǝnAs̬’'i	mǝnAs̬’i	121	m ǝ n A s̬’ - - - i
+28.9.903	Chuvash	Turkic	mǝnAs̬’'i	mǝnAs̬’i	121	m ǝ n A s̬’ - - - i
+28.9.904	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.905	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.906	Chuvash	Turkic	As̬’'A	As̬’A	121	- - - A s̬’ - A - -
+28.9.906	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.907	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.908	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.909	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.910	Chuvash	Turkic	AslAt̬’'i	AslAt̬’i	121	- - - A s l A t̬’ i
+28.9.911	Karachay-Balkar	Turkic	kø'k k’yk’yrege'n	køkk’yk’yregen	83	k ø k k’ y k’ - y r - e - - g e n
+28.9.912	Karachay-Balkar	Turkic	ko'k kukureg'en	kokkukuregen	83	k o k k u k - u r - e - - g e n
+28.9.913	Noghay	Turkic	køk gyreld'ev	køkgyreldev	83	k ø k g y - r e l d e v - - - -
+28.9.914	Noghay	Turkic	køk gyreld'ev	køkgyreldev	83	k ø k g y - r e l d e v - - - -
+28.9.915	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.916	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.917	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.918	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.919	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.920	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.921	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.922	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.923	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.924	Bashkir	Turkic	ky kr'εv	kykrεv	83	- - - k y k - - r - ε v - - - -
+28.9.925	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.926	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.927	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.928	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.929	Tatar	Turkic	kyk de̥be̥rd'i	kykde̥be̥rdi	83	- - - k y k d e̥ - b e̥ r - d i -
+28.9.929	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.930	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.931	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.932	Tatar	Turkic	goldord'an	goldordan	124	g o l d o r d a n
+28.9.932	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.933	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.934	Tatar	Turkic	kyk kykréj	kykkykréj	83	k y k k y k - - r - éj - - - - -
+28.9.935	Kalmyk	Mongolian	oxtǝrɣ'un dun	oxtǝrɣundun	113	- o x t ǝ r ɣ u - - n d u n - - - - - -
+28.9.935	Kalmyk	Mongolian	oxtǝrɣuɣ'in dun	oxtǝrɣuɣindun	113	- o x t ǝ r ɣ u ɣ i n d u n - - - - - -
+28.9.936	Kalmyk	Mongolian	oxtǝrɣuɣ'in dun	oxtǝrɣuɣindun	113	- o x t ǝ r ɣ u ɣ i n d u n - - - - - -
+28.9.936	Kalmyk	Mongolian	oxtǝrɣ'un dun	oxtǝrɣundun	113	- o x t ǝ r ɣ u - - n d u n - - - - - -
+28.9.937	Kalmyk	Mongolian	oxtǝrɣuɣ'in dun	oxtǝrɣuɣindun	113	- o x t ǝ r ɣ u ɣ i n d u n - - - - - -
+28.9.937	Kalmyk	Mongolian	oxtǝrɣ'un dun	oxtǝrɣundun	113	- o x t ǝ r ɣ u - - n d u n - - - - - -
+28.9.938	"Karaim "	Turkic	k'ok k'okr'av'uk	kokkokravuk	83	k o k k o k - - r - a v u k - -
+28.9.939	"Karaim "	Turkic	k'ok k'okr'av'uk	kokkokravuk	83	k o k k o k - - r - a v u k - -
+28.9.940	Kumyk	Turkic	køk køkyr'ev	køkkøkyrev	83	k ø k k ø k - y r - e v - - - -
+29.0.001	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.002	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.003	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.004	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.005	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.006	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.007	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.008	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.009	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.010	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.011	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.013	Bosnian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.013	Bosnian	Slavic	gr̩mλAvA	gr̩mʎAvA	11	g - r̩ - m - - - ʎ A v - - A
+29.0.014	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.015	Bosnian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.016	Serbian	Slavic	gr̩mλAvA	gr̩mʎAvA	11	g - r̩ - m - - - ʎ A v - - A
+29.0.017	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.018	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.019	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.020	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.021	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.022	Croatian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.023	Bosnian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.024	Bosnian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.025	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.026	Serbian	Slavic	gr̩mλAvA	gr̩mʎAvA	11	g - r̩ - m - - - ʎ A v - - A
+29.0.026	Serbian	Slavic	gr̩meɲe	gr̩meɲe	17	- - g r̩ - m e ɲ - - e
+29.0.027	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.028	Croatian	Slavic	gr̩mλAvA	gr̩mʎAvA	11	g - r̩ - m - - - ʎ A v - - A
+29.0.029	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.030	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.031	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.032	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.033	Serbian	Slavic	gr̩mλAvinA	gr̩mʎAvinA	11	g - r̩ - m - - - ʎ A v i n A
+29.0.033	Serbian	Slavic	gr̩mλAvA	gr̩mʎAvA	11	g - r̩ - m - - - ʎ A v - - A
+29.1.101	Macedonian	Slavic	tr'esE̷k	tresE̷k	15	t r e s E̷ k
+29.1.102	Macedonian	Slavic	g'r̩meʃ	gr̩meʃ	17	- - g r̩ - m e - ʃ - -
+29.1.103	Macedonian	Slavic	g'r̩meʃ	gr̩meʃ	17	- - g r̩ - m e - ʃ - -
+29.1.104	Macedonian	Slavic	t'E̷ton	tE̷ton	1015	t E̷ t o n
+29.1.104	Macedonian	Slavic	g'r̩meʃ	gr̩meʃ	17	- - g r̩ - m e - ʃ - -
+29.1.105	Macedonian	Slavic	g'r̩meʃ	gr̩meʃ	17	- - g r̩ - m e - ʃ - -
+29.1.106	Macedonian	Slavic	g'r̩meʃ	gr̩meʃ	17	- - g r̩ - m e - ʃ - -
+29.1.107	Macedonian	Slavic	gr̩m'Avit͟sA	gr̩mAvit͟sA	11	g - r̩ - m - - - - A v i t͟s A
+29.2.201	Slovene	Slavic	germεnjε	germεnjε	81	g e r m - ε n jε
+29.2.202	Slovene	Slavic	germεnjε	germεnjε	81	g e r m - ε n jε
+29.2.203	Slovene	Slavic	germεnjε	germεnjε	81	g e r m - ε n jε
+29.2.204	Slovene	Slavic	germljAvit͟sA	germljAvit͟sA	11	g e r - m - - - lj A v i t͟s A
+29.2.205	Slovene	Slavic	germεnjε	germεnjε	81	g e r m - ε n jε
+29.2.205	Slovene	Slavic	grom	grom	17	- - g r o m - - - - -
+29.2.206	Slovene	Slavic	grom	grom	17	- - g r o m - - - - -
+29.2.207	Slovene	Slavic	germεnjε	germεnjε	81	g e r m - ε n jε
+29.3.301	Albanian	Albanian	mumrim	mumrim	2	m u - m - r i m
+29.3.302	Albanian	Albanian	murmurin	murmurin	2	m u r m u r i n
+29.3.303	Albanian	Albanian	bumbuɨajm	bumbuɨajm	1	b u m b u - ɨ - - aj m - -
+29.4.401	Romanian	Romance	d'urǝjǝ̭	durǝjǝ̭	73	d u r - ǝ j - - - ǝ̭
+29.4.501	Hungarian	Ugric	d'ørgēʃ	dørgēʃ	55	- - - d ø r - - g ē ʃ
+29.4.501	Hungarian	Ugric	m’εɲdørgēʃ	m’εɲdørgēʃ	55	m’ ε ɲ d ø r - - g ē ʃ
+29.4.501	Hungarian	Ugric	z'ørgēʃ	zørgēʃ	55	- - - z ø r - - g ē ʃ
+29.4.601	N. Italian	Romance	burj'on	burjon	1061	b u r j o n
+30.0.001	Greek	Greek	pumburg'a	pumburga	1	b u m b u n i - t - - - o
+30.0.002	Greek	Greek	pumburg'a	pumburga	1	b u m b u n i - t - - - o
+30.0.003	Greek	Greek	pumburg'a	pumburga	1	b u m b u n i - t - - - o
+30.0.004	Greek	Greek	pumburg'a	pumburga	1	b u m b u n i - t - - - o
+30.0.005	Greek	Greek	pumburg'a	pumburga	1	b u m b u n i - t - - - o
+33.0.001	Faroese	Germanic	tʰ'ōran	tʰōran	6	tʰ ō r - - a - n - - - - - - - -
+33.0.002	Faroese	Germanic	tʰ'ōran	tʰōran	6	tʰ ō r - - a - n - - - - - - - -
+33.0.003	Faroese	Germanic	tʰ'orEsloʰttyr	tʰorEsloʰttyr	6	tʰ o r - - E - - - s - l oʰ tt y r
+33.0.004	Faroese	Germanic	tʰ'ōrEslɔʰttEr	tʰōrEslɔʰttEr	6	tʰ ō r - - E - - - s - l ɔʰ tt E r
